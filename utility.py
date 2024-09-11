@@ -7,34 +7,22 @@ import os
 def ask_doctor_about_std(query):
     # Initialize the Groq client with your API key
     client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY"),
+        api_key= os.environ.get('GOOGLE_API_KEY')
     )
+
     
-    # client.set_api_key(os.getenv('api_key'))
-    
-    # Create a chat completion request with the user's query
-    completion = client.chat.completions.create(
-        model="llama3-70b-8192",
-        messages=[
-            {
-                "role": "user",
-                "content": query  # User's query related to STD/STI
-            }
-        ],
-        temperature=.89,
-        max_tokens=2000,
-        top_p=1,
-        stream=False,
-        stop=None,
-          
+    chat_completion = client.chat.completions.create(
+    messages=[
+        {
+            "role": "user",
+            "content": query,
+        }
+    ],
+    model="llama3-8b-8192",
     )
-    
-    # Collect the response from the LLM
-    response = ""
-    for chunk in completion:
-        response += chunk.choices[0].delta.content or ""
-    
-    return response.replace('*',"")
+
+    response = chat_completion.choices[0].message.content # Extract the relevant response
+    return response.replace('*','')
 
 
 
