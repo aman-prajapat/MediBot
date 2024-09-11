@@ -30,7 +30,7 @@ def df_to_text(df):
     rows = []
     for index, row in df.iterrows():
 
-        row_str = f"Sr. No: {len(row) + 1}\n"
+        row_str = f"Sr. No: {len(rows) + 1}\n"
         row_str += f"Name of Medical Officer: {row['Medical_Officer_Name']}\n"
         row_str += f"Medical Officer Contact: {row['Medical_Officer_Contact']}\n"
         row_str += f"Name of Counselor: {row['Counselor_Name']}\n"
