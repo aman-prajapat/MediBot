@@ -45,12 +45,13 @@ def webhook():
         "fulfillmentText": response_message
         })
         # return jsonify(response), 200
-@app.route('/hi')
+@app.route('/')
 def home():
     return "Hello, Flask app running on Render!"
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))  # Use the dynamic PORT variable
     app.run(host='0.0.0.0', port=port)  # Bind to 0.0.0.0 for external access
+
 
 
 
