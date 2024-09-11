@@ -1,0 +1,1591 @@
+,Sr_No,Medical_Officer_Name,Medical_Officer_Contact,Counselor_Name,Counselor_Contact,Health_Facility_Name,Address,City,State
+0,1,Dr.K.Nagaraju,9441247777,Narendar,9949726333,Adilabad,RIMS Hospital, Adilabad,Telangana
+1,2,Dr.Shanti david,9866503103,Srinivas,9989451564,Bhainsa,Area Hospital, Bhainsa,Telangana
+2,3,Dr.Jagadeswar reddy,9866103305,Ramkumar,9866515762,Mancherial,Area Hospital, Mancherial,Telangana
+3,4,Dr.P.Srinivas Naik,9849056479,Venkatesh,9704651646,Ananthapur,GGH, Anathapur,Andhra Pradesh
+4,5,Dr.G.Bhanu murthy,9440423178,Maruti Prasad,9959515525,Hindupur,District Hospital, Hindupur,Andhra Pradesh
+5,6,Dr.PN.Ravi Kumar,NA,Kesavulu,8121136024,Guntakal,Area Hospital, Guntakal,Andhra Pradesh
+6,7,Dr.Thipendra Naik,9603366442,Narayana swamy,9966733855,Kadiri,Area Hospital, Kadiri,Andhra Pradesh
+7,8,Dr.Damodara Naidu,9440046589,Prabhakar,9291450497,Chittoor,District Hospital, Chittoor,Andhra Pradesh
+8,9,Dr.V.Sudhakar Babu,9440206486,Pratap,9966261611,Tirupati,SVRRGG Hospital, Tirupati,Andhra Pradesh
+9,10,Dr.Balasubramanyam,9490495599,Padma,9705401361,Srikalahasthi,Area Hospital, Srikalahasthi,Andhra Pradesh
+10,11,Dr.Varadarajulu,9866272706,Pullaiah,9963028922,Madanapalli,Area Hospital, Madanapalli,Andhra Pradesh
+11,12,Dr.P.Siva Kumar,9701425271,Ramachandra,9959476450,Kuppam,Area Hospital, Kuppam,Andhra Pradesh
+12,13,Dr.TS.Chandra Gupta,9848087858,Baby Sarojini,9848824875,Kakinada,GGH, Kakinada,Andhra Pradesh
+13,14,Dr.Annapurna,8008553445,NA,NA,Tuni,Area Hospital, Tuni,Andhra Pradesh
+14,15,Dr.Sitaramaraju,9440016171,Giribabu,9866959593,Rajahmundry,District Hospital, Rajahmundry,Andhra Pradesh
+15,16,Dr.MVR.Mohan rao,9848350197,Kavitha,9908910190,Amalapuram,Area Hospital, Amalapuram,Andhra Pradesh
+16,17,Dr.T.Durga Raju,9394801055,Naganna,9989817651,Ramachandrapuram,Area Hospital,Ramachandrapuram,Andhra Pradesh
+17,18,Dr.B.Uday Kumar,9440292567,Vasanthalakshmi,9985460929,Guntur,Govt. Gen Hospital, Guntur,Andhra Pradesh
+18,19,Dr.Prem Kumar,9989299229,Rajeswari,9390338787,Tenali,District Hospital, Tenali,Andhra Pradesh
+19,20,Dr.Ankeneedu.Prasad,9390510551,Vanajakshi,9703759240,Narasaraopet,Area Hospital, Narasaraopet,Andhra Pradesh
+20,21,Dr.K.Hanumantha Rao,9490643401,Bajatunnisa,9963271908,Bapatla,Area Hospital, Bapatla,Andhra Pradesh
+21,22,Dr.K.Ramadas,9246543848,Jyothirmayi,9492182861,Osmania,Osmania Gen. Hospital,Hyderabad.,Telangana
+22,23,Dr.K.Neeladri Raju,9849599489,Vanitha,9550325785,Gandhi,Gandhi Gen. Hospital,Secunderabad,Telangana
+23,24,Dr.MA.Rahman,9346251703,Sahitya,9676677050,King koti,District Hospital,Hyderabad.,Telangana
+24,25,Dr.Mahipal Reddy,9396213175,Jagadamba,9490629370,Nampally,Area Hospital, Nampally,Telangana
+25,26,Dr.Manjula,9849054594,Chandra mohan,9966222387,Golconda,Area Hospital, Golconda,Telangana
+26,27,Dr.Nazia Nouseen,9849450525,Shyamsundar,9291499456,Malakpeta,Area Hospital, Malakpet,Telangana
+27,28,Dr.Ramsaran,9052549214,Prasanna,9290108988,Kadapa,RIMS Hospital, Kadapa,Andhra Pradesh
+28,29,Dr.G.Suresh Kumar,9985198393,Sriramulu,9985898098,Proddutur,District Hospital,Proddutur,Andhra Pradesh
+29,30,Dr.T.V.Raghavendra Reddy,9441012774,Badlavali,9849827132,Pulivendula,Area Hospital, Pulivendula,Andhra Pradesh
+30,31,Dr.K.Naveen Kumar,9963075123,Sampath,9912231836,Karimnagar,District Hospital, Karimnagar,Telangana
+31,32,Dr.Surya Sree Rao,9441873166,Babita,9701778554,Godavarikhani,Area Hospital, Godavarikhani,Telangana
+32,33,Dr.G.Malathi,9177386367,Ramesh,9441677887,Jagityal,Area Hospital, Jagityal,Telangana
+33,34,NA,NA,Dayakar,9963313513,Siricilla,Area Hospital, Siricilla,Telangana
+34,35,Dr.M.Narayana,9848529165,Issaku,9490688048,Khammam,District Hospital, Khammam,Telangana
+35,36,Dr. N. Vijaya Laxman,9347563589,Mohanrao,9441311711,Bhadrachalam,Area Hospital, Bhadrachalam,Telangana
+36,37,Dr.Shiva sankaraiah,9849041667,Satyavathi,9951705119,Kothagudem,Area Hospital, Kothagudem,Telangana
+37,38,Dr.P.Krishna,9492709702,Srinivasarao,9966855901,Machilipatnam,District Hospital, Machilipatnam,Andhra Pradesh
+38,39,Dr.K.Rambabu,9848111656,Pullaiah,9290089378,Vijayawada,University Gen. Hospital,Vijayawada,Andhra Pradesh
+39,40,Dr.Suraya narayana,9440996727,Latha,9346205015,Nuzivedu,Area Hospital, Nuziveedu,Andhra Pradesh
+40,41,Dr.KVS.Satyanarayana rao,9848607402,Shyamala,9951551019,Gudiwada,Area Hospital, Gudiwada,Andhra Pradesh
+41,42,Dr.Srinivasulu Reddy,NA,Brahmaji,9985440030,Kurnool,Govt. Gen Hospital, Kurnool,Andhra Pradesh
+42,43,Dr.A.Janardhan,9848176290,Sekhar,9441689233,Nandyal,District Hospital, Nandyal,Andhra Pradesh
+43,44,Dr.Tajammul Hussain,9052112786,Hemasundaram,9912132647,Adoni,Area Hospital, Adoni,Andhra Pradesh
+44,45,Dr.Laxmi Padma Priya,9866494939,Begum,9550109107,Mahabubnagar,District Hospital, Mahabubnagar,Telangana
+45,46,Dr.R.Vijaya bhaskar,9392362080,Peerenaik,9989386610,Wanaparthy,Area Hospital, Wanaparty,Telangana
+46,47,NA,NA,Sridhar,9394844652,Nagarkurnool,Area Hospital, Nagarkurnool,Telangana
+47,48,Dr.J.Naveen Kumar Reddy,9949678906,NA,NA,Narayanpet,Area Hospital, Narayanpet,Telangana
+48,49,Dr.K.Shobha Rani,9440356347,NA,NA,Gadwal,Area Hospital, Gadwal,Telangana
+49,50,Dr.C.N.Vijay Kumar,9966552958,Rajeswar,9676714835,Medak,Area Hospital, Medak,Telangana
+50,51,Dr.Rammohan,9440037059,Varaprasad,9394333416,Siddipet,Area Hospital, Siddipet,Telangana
+51,52,Dr.Murahari,9440021916,Vishnuvardhan,9849341506,Sangareddy,District Hospital, Sangareddy,Telangana
+52,53,Dr.G.Anitha Rani,9849316139,Lingaiah,9848279692,Nalgonda,District Hospital, Nalgonda,Telangana
+53,54,Dr.G.Veeranjaneyulu,9397331068,Jayachandra reddy,9290681879,Miryalaguda,Area Hospital, Miryalaguda,Telangana
+54,55,Dr.R.Satyanarayana,9848065048,Gabbar singh,9397604177,Bhongir,Area Hospital, Bhongir,Andhra Pradesh
+55,56,Dr.C.Subramanyam,9441083499,Rajan,9912336512,Suryapet,Area Hospital, Miryalaguda,Andhra Pradesh
+56,57,Dr.B.Srinivas,9966730712,Prasad,9866951346,Nagarjuna sagar,Area Hospital, Nagarjuna sagar,Andhra Pradesh
+57,58,Dr.K.Subramanyam Raju,9448279869,Ramesh Babu,9177263553,Nellore,DSR District Hospital, Nellore,Andhra Pradesh
+58,59,Dr.Prasuna,9849374670,Rajani,9866366179,Kavali,Area Hospital, Kavali,Andhra Pradesh
+59,60,Dr.R.Venkateswarlu,9440488001,Ramajaneyulu,9701932201,Gudur,Area Hospital, Gudur,Andhra Pradesh
+60,61,Dr.P.Srinivas Goud,NA,Varalakshmi,986665641,Nizamabad,District Hospital, Nizamabad,Telangana
+61,62,Dr.B.Sangeet Kumar,9440135380,Rajasekhar,9951155184,Bodhan,Area Hospital, Bodhan,Telangana
+62,63,Dr.S.Ejajuddin,9247673965,Sekhar,9848471812,Kamareddy,Area Hospital, Kamareddy,Telangana
+63,64,Dr.Malathi,9866364942,Srinivas,9848780445,Banswada,Area Hospital, Bhanswada,Telangana
+64,65,Dr.Balaji Naik,9885450217,Kumari,9393390851,Ongole,RIMS Gen. Hospital, Ongole,Andhra Pradesh
+65,66,Dr.MV.Krishna Reddy,9440543554,Venkateswarlu,9966315767,Markapur,Area Hospital, Markapur,Andhra Pradesh
+66,67,Dr.B.Radhika,9849111981,Yesuraju,9908535666,Chirala,Area Hospital, Chirala,Andhra Pradesh
+67,68,Dr.T.Prasad,9849348988,Rani,9948720030,Kandukur,Area Hospital, Kandukur,Andhra Pradesh
+68,69,Dr.Shabir Mohammad,9052320261,Viraswamy,9959360326,Tandur,District Hospital, Tandur,Telangana
+69,70,Dr.D.Anupama,9394071761,Sarala,9908375709,Kondapur,Area Hospital, Kondapur,Telangana
+70,71,Dr.S.Madhavachari,9849197830,NA,NA,Vanasthalipuram,Area Hospital, Vanasthalipuram,Telangana
+71,72,Dr.Kanaka Prasad,9440230678,Srinivasarao,9951923400,Srikakulam,RIMS Gen. Hospital, Srikakulam,Andhra Pradesh
+72,73,Dr.Ramesh,9866655912,Parvathi,9010866869,Tekkali,Area Hospital, Tekkali,Andhra Pradesh
+73,74,Dr.Chiranjeeevi,9440790117,Govindrao,9985266827,Palakonda,Area Hospital, Palakonda,Andhra Pradesh
+74,75,Dr.BV.Ramachandra,9849121737,Kanakasnthoshi,9912473610,Visakhapatnam,King George Hospital,"
+ Visakhapatnam",Andhra Pradesh
+75,76,Dr.Y.V.Ramana Rao,NA,Rajeswari,9912436096,Anakapalli,Area Hospital, Anakapalli,Andhra Pradesh
+76,77,NA,NA,Prasanthi,9885898736,Narsipatnam,Area Hospital, Narsipatnam,Andhra Pradesh
+77,78,Dr.M.Narayana,9618320776,Revathi,9885835680,Vizianagaram,District Hospital, Vizianagaram,Andhra Pradesh
+78,79,Dr.Y.Nagasiva Jyothi,9441902892,Polinaidu,9885835680,Parvathipuram,Area Hospital, Parvathipuram,Andhra Pradesh
+79,80,Dr.Hanuma Naik,9866432003,Satish,9440120701,Warangal,MGM Hospital, Warangal,Andhra Pradesh
+80,81,Dr.CH.Madhusudhan,9440325816,Shyamalatha,9290125562,Janagaon,District Hospital, Janagaon,Telangana
+81,82,Dr.P.Malathi Reddy,9959417540,Venkataramana,9441087874,Mahaboobabad,Area Hospital, Mahabubabad,Telangana
+82,83,Dr.M.Padma,9491720787,Nirmala,9866492889,Eluru,District Hospital, Eluru,Andhra Pradesh
+83,84,Dr.R.Praveen Kumar,9440487319,Lakshmi,9392560517,Tadepalligudem,Area Hospital, Tadepalligudem,Andhra Pradesh
+84,85,Dr.K.Chandra Sekhar,9247398489,Sujatha kumari,9490833316,Tanuku,Area Hospital, Tanuku,Andhra Pradesh
+85,86,Dr(Mrs Madhuri Devi,03794‐222339,NA,‐,"District Hospital, tawang",District Hospital, tawang,Arunachal Pradesh
+86,87,Dr. E.M.Jha,03782‐222188,NA,‐,"District Hospital,
+ Bomdila",District Hospital,"
+ Bomdila",Arunachal Pradesh
+87,88,Dr. Raja Dodum,03787‐222239,Ms. Munia Natung,NA,"District Hospital, Seppa",District Hospital, Seppa,Arunachal Pradesh
+88,89,Dr. B. Riba,9436041889,Mr. Khoda Vijay,NA,"General Hospital,
+ Naharlagun",General Hospital,"
+ Naharlagun",Arunachal Pradesh
+89,90,Dr. Hage Yubey,03788‐225744,Mr. Likha Rebia,NA,"District Hospital, Ziro",District Hospital, Ziro,Arunachal Pradesh
+90,91,Dr. T. Dolum,03792‐223241,Mr. Padi Hana,NA,"District Hospital,
+ Daporijo",District Hospital,"
+ Daporijo",Arunachal Pradesh
+91,92,Dr.T. Kena,03783‐2222249,Ms. Nyumter Nyorak,NA,"District Hospital, Aalo",District Hospital, Aalo,Arunachal Pradesh
+92,93,Dr.(Mrs) G. litin,03777‐222841,NA,NA,"District Hospital,
+ Yingkiong",District Hospital,"
+ Yingkiong",Arunachal Pradesh
+93,94,Dr. O. Yomso,0368‐223862,NA,NA,"General Hospital,
+ Pasighat",General Hospital,"
+ Pasighat",Arunachal Pradesh
+94,95,Dr. Hage tayo,03803‐222444,NA,NA,"District Hospital, Anini",District Hospital, Anini,Arunachal Pradesh
+95,96,Dr. Ista Pulu,03801‐222230,NA,NA,"District Hospital, Roing",District Hospital, Roing,Arunachal Pradesh
+96,97,Dr. D. Perme,03804‐222261,Ms. Pinda Pulu,NA,"District Hospital, Tezu",District Hospital, Tezu,Arunachal Pradesh
+97,98,Dr(Ms) W. Taisam,03808‐222264,Ms. Karyir Ete,NA,"District Hospital,
+ Changlang",District Hospital,"
+ Changlang",Arunachal Pradesh
+98,99,Dr. N.K.Dutta,03786‐222543,NA,NA,"District Hospital, Khonsa",District Hospital, Khonsa,Arunachal Pradesh
+99,100,Dr.S.Laskar,9864107802,Ms.S. Deori.,9207162117,GMCH,Guwahati,"GMCH,",Assam
+100,101,Dr.A.Dey.,9435017964,Mr. M.Roy,9854164583,SMCH,Silchar,SMCH,Assam
+101,102,Dr.T.Deori.,9435473787,Ms.U.Baruah.,9854188012,AMCH,Dibrugarh,AMCH,Assam
+102,103,Dr.K Talukdar,9435030309,Ms.D Kurmi.,9854627033,JMCH,Jorhat,J.MCH,Assam
+103,104,Dr.N.Dutta.,9435028666,Ms.P.Dutta,9435277474,Nalbari CH,Nalbari,Nalbari,Assam
+104,105,Dr.B.Das.,9864210959,Ms. M .Mazumder,9864157331,Barpeta CH,Barpeta,Barpeta,Assam
+105,106,Dr.M. Medhi.,9435107580,Ms.S.Buzarbaruah,9706494067,Mongaldoi CH,Darrang,Darrang,Assam
+106,107,Dr. S.Duarah.,9435233767,Ms.R. Sonowal,9707221043,Golaghat CH,Golaghat,Golaghat,Assam
+107,108,Dr.Z. Hussian,9435075241,Ms.A .Nath,9401439601,Karimganj CH,Karimganj,Karimganj,Assam
+108,109,Dr. R.Keot.,9435083530,Ms.P .Bora,9706603257,Tezpur CH,Tezpur,Sonitpur,Assam
+109,110,Dr. D. Mili.,9435085369,Mr.K .Phukan,9707899390,Lakhimpur CH,Lakhimpur,Lakhimpur,Assam
+110,111,Dr.P.N Deori.,9435088851,Mr.A .Sharma,9954831583,Dhemaji CH,Dhemaji,Dhemaji,Assam
+111,112,Dr.B.Thakuria,9435319355,Ms. B.Boruah,NA,Morrigaon CH,Morigaon,Morigaon,Assam
+112,113,Dr. M.I Afsar.,9435062187,Ms.R .Deka,9859887781,Nagaon CH,Nagaon,Nagaon,Assam
+113,114,Dr. S. Mahanta,9435055298,Ms.J .Deka,9864458596,Sibsagar CH,Sibsagar,Sibsagar,Assam
+114,115,Dr. S Mukherje,9435527584,Ms.A .Pathak,9706244752,Tinsukia CH,Tinsukia,Tinsukia,Assam
+115,116,Dr.R Begum,9859763582,Mr.T.Ahmed,9435650510,Hailakandi CH,Hailakandi,Hailakandi,Assam
+116,117,Dr.A.K Paul,9435077084,Mr. J. Doley,8011379301,Haflong CH,Haflong,N.C Hills,Assam
+117,118,Dr. M.K Rongpi,9435315293,Not Trained,"Not
+ Trained",Karbianlong CH,Karbianlong,Karbianlong,Assam
+118,119,Dr.A. Kader,9435023642,Ms. B .Choudhary,9508174632,Goalpara CH,Goialpara,Goalpara,Assam
+119,120,Dr. J.M Bezbaruah,9435561354,Ms. B .Pathak,9854432664,Dhubri CH,Dhubri,Dhubri,Assam
+120,121,Dr.A.K Brahma.,9435026698,Ms.D .Baruah,9435025241,Kokrajhar CH,Kokrajhar,Kokrajhar,Assam
+121,122,Dr. C. R Hazarika.,9435141813,Ms. M .Kashyap,9864813157,Bongaigaon CH,Bongaigaon,Bongaigaon,Assam
+122,123,Dr B.K. Chaudhary,9470003032,NA,NA,Sadar Hospital,Sadar Hospital,Araria (A),Bihar
+123,124,Dr Bindeshwari Sharma,"9473380156
+ ,09430059427",NA,NA,Sadar Hospital,Sadar Hospital,Arwal,Bihar
+124,125,Dr Sabahuddin,9430408162,NA,NA,Sadar Hospital,Sadar Hospital,Aurangabad,Bihar
+125,126,Dr J.A.Goswami,9334259103,NA,NA,Sadar Hospital,Sadar Hospital,Banka,Bihar
+126,127,Dr Naval Kishore,9334679858,Dharamendra kr sinha,9939954855,Sadar Hospital,Sadar Hospital,Begusarai,Bihar
+127,128,"Dr A.K.Sah(JLNMCH) /Dr
+ Manohar Kr Jaiswal(SH)","Dr A.K.Sah(JLNMCH)
+ ,9934089468/Dr
+ Manohar Kr Jaiswal/ 9430446891",Danish Ara,9934078644,JLNMCH & Sadar Hospital,"Sadar Hospital & JLN Medical College Hospital, Bhagalpur",Bhagalpur,Bihar
+128,129,Dr B.K. prasad,9431027029,NA,NA,Sadar Hospital,Sadar Hospital,Bhojpur,Bihar
+129,130,Dr Ramesh Pd Singh,9934241156,NA,NA,Sadar Hospital,Sadar Hospital,Buxar,Bihar
+130,131,Dr S.K.Gupta,06272‐233078,Roma Rani,9939097719,DMCH,"Darbhanga Medical College
+ Hospital, Laheriasarai",Darbhanga,Bihar
+131,132,Dr Nirbhay Kr Singh,9431250602,Anshu Prabha,9771146850,Sadar Hospital,Sadar Hospital,E. Champaran,Bihar
+132,133,Dr.Iftekhar Khan(ANMMCH)/Dr Arvind Kumar(PH),"Dr.Iftekhar Khan(ANMMCH), 9934063473/Dr
+ Arvind Kumar(PH)‐
+ 9470003163",NA,NA,ANMMCH & Pilgrim Hospital,Sadar Hospital,Gaya,Bihar
+133,134,Dr Bimal Kumar,9431218340,NA,NA,Sadar Hospital,Sadar Hospital,Gopalganj,Bihar
+134,135,Dr Nagina Paswan,9304996567,NA,NA,Sadar Hospital,Sadar Hospital,Jamui,Bihar
+135,136,Dr Binay Kumar,9431430461,Navin kr singh,9534313959,Sadar Hospital,Sadar Hospital,Jehanabad,Bihar
+136,137,Dr Amarnath,9431642950,NA,NA,Sadar Hospital,Sadar Hospital,Kaimur,Bihar
+137,138,Dr R.Suman,/ 9431634656,Jitendra kr Gupta,9334067419,Sadar Hospital,Sadar Hospital,Katihar (B),Bihar
+138,139,Dr S.P.Mandal,9431417333,Amit kr Ranjan,9334938641,Sadar Hospital,Sadar Hospital,Khagaria,Bihar
+139,140,Dr N.K.Prasad,9431285162,NA,NA,Sadar Hospital,Sadar Hospital,Kishanganj,Bihar
+140,141,Dr Anand Shankar,9431664794,NA,NA,Sadar Hospital,Sadar Hospital,Lakhisarai (A),Bihar
+141,142,Dr Hari Shankar Prasad,9431397149,NA,NA,Sadar Hospital,Sadar Hospital,Madhubani,Bihar
+142,143,Dr Suman Kr Jha,9434245567,NA,NA,Sadar Hospital,Sadar Hospital,Madhepura,Bihar
+143,144,"Dr Bibhutibhushan
+ Prasad",9234495966,NA,NA,Sadar Hospital,Sadar Hospital,Munger,Bihar
+144,145,Dr Vijay Kumar Singh,9431416491,Anamika kumari,9304729360,SKMCH & Sadar Hospital,"SK Medical College Hospital, Muzaffarpur & Sadar Hospital
+ Muzaffarpur",Muzaffarpur,Bihar
+145,146,Dr Shrikant Prasad,9431840901,NA,NA,Sadar Hospital,Sadar Hospital,Nalanda,Bihar
+146,147,Dr Ram Kumar Prasad,9431416154,NA,NA,Sadar Hospital,Sadar Hospital,Nawada,Bihar
+147,148,Dr Amar Kant Jha(PMCH)/Dr Shrikant Prasad(NMCH),"Dr Amar Kant Jha‐ 9431237869/Dr
+ Shrikant Prasad‐ 94310793056",Minakshi shrivastav,9097754301,PMCH & NMCH,"Patna Medical College Hospital, Patna& Nalanda Medical College Hospital,Agamkuan",Patna,Bihar
+148,149,Dr Sunita Prasad,9431311897,NA,NA,Sadar Hospital,Sadar Hospital,Purnea (B),Bihar
+149,150,Dr Vishnu Kr Singh,9334897104,NA,NA,Sadar Hospital,Sadar Hospital,Rohtas,Bihar
+150,151,Dr R.C.Jha,"9431471365,
+ 9431421363",NA,NA,Sadar Hospital,Sadar Hospital,Saharsa,Bihar
+151,152,Dr G.N. Jha,9431826394,Kavita Verma,9709723983,Sadar Hospital,Sadar Hospital,Samastipur,Bihar
+152,153,Dr Arvind Kr Gupta,9431285512,NA,NA,Sadar Hospital,Sadar Hospital,Saran,Bihar
+153,154,Dr Birendra Pd,9431488252,NA,NA,Sadar Hospital,Sadar Hospital,Sheikhpura,Bihar
+154,155,Dr Amitabh,9430275299,NA,NA,Sadar Hospital,Sadar Hospital,Sheohar,Bihar
+155,156,Dr U.S.Priyadarshi,9431476856,NA,NA,Sadar Hospital,Sadar Hospital,Sitamarhi,Bihar
+156,157,Dr Ramashish kumar,"9835074909 ,
+ 9470003787",Binay Kirti,9905290437,Sadar Hospital,Sadar Hospital,Siwan,Bihar
+157,158,Dr K.K. Jha /,"9431243232,
+ 9431297232",NA,NA,Sadar Hospital,Sadar Hospital,Supaul,Bihar
+158,159,Dr Vijay Kumar,9431253672,Md Miraj Ahamed,9472810804,Sadar Hospital,Sadar Hospital,Vaishali,Bihar
+159,160,Dr Amitabh Chaudhary,9006385959,Santosh kr singh,9308632801,"MJK Hospital, Bettiah","MJK Hospital, Bettiah","W.
+ Champaran",Bihar
+160,161,Derma clinic‐ Dr. S. D. Mehta Gynae clinic‐ Dr. Veena Sarna,"9876154711
+ 9872669554",Mr. Ajay Kumar,9988843104,GMSH‐16,Sector‐16,Chandigarh,Chandigarh
+161,162,Derma clinic‐ Dr. G.P. Dhami Gynae clinic‐ Dr. Anju Hurria,"M:9646121544 O:2665545 M:9646121577
+ O:2665545",Ms. Balwinder Kaur,9646779500,GMCH‐32,Sector‐32,Chandigarh,Chandigarh
+162,163,Derma clinic‐ Dr. A. J. Kanwar Gynae clinic‐ Dr. L.K. Dhaliwal,"9914209561
+ 2756868(P.A)",Ms. Renu(New),9466909229,PGIMER,Sector‐12,Chandigarh,Chandigarh
+163,164,Dr . Shalendra Singh,9926120190,Mukesh Kumar Bhalave,9926974452,"Pt J.N.M Medical Collage
+ Raipur","Pt J.N.M Medical Collage Raipur
+ ,chhattisgarh",Raipur (MC),Chhattisgarh
+164,165,Dr. Ravi Tiwari,NA,Archana Chaphekar,9981766989,Govt.District Hospital.,"Govt.District
+ Hospital.Pandari,Raipur, chhattisgarh",Raipur (DH),Chhattisgarh
+165,166,Dr.Sanjay Wankhede,9425212041,Hemlata Sahu,9407610077,Govt.District Hospital.,Govt.District Hospital.Dhamtari,Dhamtari,Chhattisgarh
+166,167,Dr.M.L.Soni,9425538675,Vacant,Vacant,Govt.District Hospital.,"Govt.District
+ Hospital.Mahasamund,chhattisga rh",Mahasamund,Chhattisgarh
+167,168,Dr.P.K.Kar,9981204709,Vacant,Vacant,Govt.District Hospital.,"Govt.District
+ Hospital.Bastar,chhattisgarh",Bastar,Chhattisgarh
+168,169,Dr.J.P.Swine,9893105091,Balkrishna Tiwari,9407736620,Chhattisgarh Institute of Medical Sciense Bilaspur,"Chhattisgarh Institute of Medical Sciense Bilaspur,chhattisgarh","Bilaspur(CIMS
+ )",Chhattisgarh
+169,170,Dr.C.B.Mishra,930275949,Vacant,Vacant,Govt.District Hospital.,"Govt.District Hospital.(Navin Jila
+ Aspatal) Bilaspur",Bilaspur (DH),Chhattisgarh
+170,171,Dr.K.B.Singh,9424153011,Vacant,Vacant,Govt.District Hospital.,"Govt.District Hospital, Janjgir‐
+ Champa ,chhattisgarh","Janjgir‐
+ Champa",Chhattisgarh
+171,172,Dr.M.P.Mahiswar,9425511286,Dalsingh Komre,9098843793,Govt.District Hospital.,"Govt.District Hospital.Kawardha,Chhattisgarh",Kawardha,Chhattisgarh
+172,173,Dr M.Singh,9752026334,Anita Soni,9752144877,Govt.District Hospital.,"Govt.District
+ Hospital.Korba,Chhattisgarh.",Korba,Chhattisgarh
+173,174,Dr G.S.Paikra,9926480929,Vacant,Vacant,Govt.District Hospital.,"Govt.District
+ Hospital.Koriya,Chhattisgarh",Koriya,Chhattisgarh
+174,175,Dr P.K.Gupta,9425252730,Vacant,Vacant,Govt.District Hospital.,"Govt.District
+ Hospital.Raigarh,Chhattisgarh",Raigarh,Chhattisgarh
+175,176,Dr. Shukhdev Shende,NA,Nirbhay Ram Sahu,9926198310,Govt.District Hospital.,"Govt.District
+ Hospital.Kanker,Chhattisgarh",Kanker,Chhattisgarh
+176,177,Dr. B.L.Kumre,9827174966,Neha Paney,9300130664,Govt.District Hospital.,"Govt.District
+ Hospital.Rajnandgaon,Chhattisga rh.",Rajnandgaon,Chhattisgarh
+177,178,Dr V.R.Singh,9826506514,Biresh Kumar Bairagi,9165056902,Govt.District Hospital.,"Govt.District
+ Hospital,Surguja,Chhattisgarh",Surguja,Chhattisgarh
+178,179,Dr.S.K.Fatting,NA,Abhay Tamrakar,9179674789,Govt.District Hospital.,"Govt.District
+ Hospital.Durg,Chhattisgarh",Durg,Chhattisgarh
+179,180,Dr Sanjay Kumar Baghel,NA,Vacant,Vacant,Govt. istrict Hospital.,"Govt.District
+ Hospital.  entewada, hhattisgarh",Dentewada,Chhattisgarh
+180,181,Dr Sujeet Viswas,NA,Vacant,Vacant,Govt.District Hospital.,"Govt.Civil/District
+ Hospital.Bijapur,Chhattisgarh",Bijapur,Chhattisgarh
+181,182,Dr S.L.Siddharth,9425252956,Vacant,Vacant,Govt.District Hospital.,"Govt.District Hospital.
+ Jashpur,Chhattisgarh.",Jashpur,Chhattisgarh
+182,183,Dr Sanjay Gamit,"9825082912,
+ 0260‐2642120",Mr. Bhirdu Deshmukh,"9727456718,
+ 0260‐2642120","Shri Vinoba Bhave Civil Hospital, Silvassa","Silvassa, UT of Dadra & Nagar Haveli, PIN‐396230",UT of DNH,UT of DNH
+183,184,Dr. V.K. Sharma,"26593217,
+ 26597700",Ms. Rama Raj,9871718146,AIIMS,AIIMS,South,Delhi
+184,185,Dr. V.Ramesh,26198438,Mr. Sanjeev Kumar,9310532895,Safdarjung Hospital,Safdarjung Hospital,NA,Delhi
+185,186,Dr. Moinul Haque,9871064094,Ms. Meena Singh,9868664085,RTRM Hospital,RTRM Hospital,South‐West,Delhi
+186,187,Dr. Rati Makkar,9810696949,Mr. Lalit Kumar,9896144280,DDU Hospital,DDU Hospital,West,Delhi
+187,188,Dr. S. B. Srivastava,"27055585 ext
+ 137",Mr. Yameen Ali,NA,Dr. BSA Hospital,Dr. BSA Hospital,NA,Delhi
+188,189,Dr. Rajeev Gupta,9871134250,Mr.Akshay Ansuman,9958338516,MB Hospital,MB Hospital,North ‐West,Delhi
+189,190,"DR. C.S.
+ Bhogal","27636002‐04, ext
+ 345",Ms Kamini Kanojiya,"9911244515,
+ 9654655450,
+ 9310690238",BJRM Hospital,BJRM Hospital,NA,Delhi
+190,191,Dr. V. K. Khurana,"23919613
+ 9811055805",Mr. Subhash Azad,9015886159,Hindurao Hospital,Hindurao Hospital,North,Delhi
+191,192,Dr. Anjali Bala,9811011095,Ms. Deepika Mittal,9899689978,"MCD Dispensary,","MCD Dispensary,",NA,Delhi
+192,193,Dr. G. P Sinha,9968295551,Mr.Rajnish Thakur,9250480137,Jag Pravesh Chandra Hospital,Jag Pravesh Chandra Hospital,North‐East,Delhi
+193,194,Dr. S. N. Bhattacharya,9899242802,Mr.Jagdish Singh,9968251153,GTB Hospital,GTB Hospital,NA,Delhi
+194,195,Dr. Ram,9818341409,Mr. ijay Kumar,9213361189,LBS Hospital,LBS Hospital,East,Delhi
+195,196,Dr. V. K. Garg,23234648,Mr. Rakesh Kumar,9313556268,LNJP Hospital,LNJP Hospital,Central,Delhi
+196,197,Dr. Pragati Bhushan/ Dr. Jyoti,9868420715,Mr. Kumarpal,9711873799,GLM Hospital,GLM Hospital,NA,Delhi
+197,198,Dr.Niraj Tyagi Dr. Pawan,"9818085150
+ 9312324936",Mr. Sanjoo Napit,9911440164,"MCD Dispensary,","MCD Dispensary,",NA,Delhi
+198,199,Dr. H. K. Kar,"23404040,
+ 23365501(d),
+ 23404406",Mr. Ram Pravesh Yadav,9555616194,RML Hospital,RML Hospital,New Delhi,Delhi
+199,200,Dr. Ramchandra,"9968310084,",Satyajeet Singh,9910132355,LHMC Hospital,LHMC Hospital,NA,Delhi
+200,201,Dr. P. Shukla,"2458712 /
+ 2458713
+ 2265119 /
+ 2262372","Dr. More , GMC Staff","2458712 /
+ 2458713
+ 2265119 /
+ 2262372","A. Goa Medical College,",Bambolim,North Goa,Goa
+201,202,Dr. Girish Pednekar,NA,Ms. Bhagyashree,NA,B.Asilo Hospital,Mapusal,NA,Goa
+202,203,NA,NA,NA,NA,NA,NA,NA,Goa
+203,204,Dr. Marcia Pacheco,"2705754 /
+ 2705664
+ 2540864",Vacant,"2705754 /
+ 2705664",A.Hospicio Hospital,Margao,South Goa,Goa
+204,205,Dr. Sujata Kamat,NA,Vacant,NA,"B. STD Clinics,","Baina ,Vasco",NA,Goa
+205,206,Dr. Bela J. Shah,9898059289,Kamleshkumari Mishra,9825868220,"Civil Hospital & B. J.
+ Medical College","Asarwa, Ahmedabad",Ahmedabad,Gujarat
+206,207,Dr. Ranjan Raval,9327022606,Pragna Pandya,9228862407,"V. S. General Hospital & Smt. NHL Municipal
+ Medical Collge","Ellish Bridge, Ahmedabad",NA,Gujarat
+207,208,Dr. Krina Patel,9227222221,Trupati Modi,9429354718,"Shardaben General
+ Hospital","Saraspur, Ahmedabad",NA,Gujarat
+208,209,Dr. Aniruddha Vyas,9825258538,Vipul Raval,9510296899,L.G.General Hospital,"Maninagar, Ahmedabad",NA,Gujarat
+209,210,Dr. Ketuman Joshi,9898321858,Vacant,NA,General Hospital‐Sola,"Sola, Ahmedabad",NA,Gujarat
+210,211,Dr. Nimit Kubavat,9825599197,M.B. Malek,9925924658,S.S. Hospital,"Petlad, Anand",Anand,Gujarat
+211,212,Dr. Ritaben V. Vora,9879290417,Vipul N. Hadiyal,9925251428,Shree Krishna Hospital & Pramukh Swami Medical College,"Karamsad, Anand",NA,Gujarat
+212,213,Dr. Nilesh Chauhan,9898392676,Sapna J. Parmar,9712713922,General Hospital‐Nadiad,"Nadiad, Kheda",Kheda,Gujarat
+213,214,Dr. Lal K. Chawla,9426399520,Geeta G. Rajyaguru,9558816391,"General Hospital ‐
+ Kheda",Kheda,NA,Gujarat
+214,215,Dr. D. J. Tiwari,9427662496,Hasmukh Dodiya,9974167141,"M. G. S. General
+ Hospital",Surendranagar,Surendranaga r,Gujarat
+215,216,Dr. Hiral Shah,9374063394,Kalpesh Patel,9824136269,"C.U.Shah Medical
+ College & Hospital",Surendranagar,NA,Gujarat
+216,217,Dr. Mehul Makdani,9879030640,Sujata Sutariya,9327034945,"General Hospital,
+ Gandhinagar",Gandhinagar,Gandhinagar,Gujarat
+217,218,Dr. T.M. Setalwad,9879520158,Kamlesh S. Patel,9099926801,"General Hospital,
+ Mehsana",Mehsana,Mehsana,Gujarat
+218,219,Dr. Parul Jani,9909981869,Mahesh Zala,9426278595,"General Hospital, Patan",Patan,Patan,Gujarat
+219,220,Dr. J.D. Chandani,9825859444,Daxa P. Patel,9978757980,"Bhansali Cheritable Trust, Women and Children and General
+ Hospital","Highway,Radhanpur ,Patan",NA,Gujarat
+220,221,Dr. Meghna Kariya,9429242969,Vacant,NA,"General Hospital‐
+ Himatnagar","Himatnagar, Sabarkantha",Sabarkantha,Gujarat
+221,222,Dr. H.N. Gadhvi,9978771110,Bharat Shrimali,9429290794,"General Hospital‐
+ Palanpur","Palanpur, Banaskantha",Banaskantha,Gujarat
+222,223,Dr. Vipul Patel,9898343699,Chetna S. Patel,9099926807,Bhansali Cheritable Trust Sanchailt Gandhi Lincon Hospital,"Deesa, Bananskantha",NA,Gujarat
+223,224,Dr. Neela Bhuptani,9427382888,Sanjay Ramani,9879878830,"General Hospital & PDU Government Medical
+ College",Rajkot,Rajkot,Gujarat
+224,225,Dr. Shailesh J. Patel,9427222650,Vijay Ramanbhai Patel,9428480038,General Hospital‐Morbi,"Morbi, Rajkot",NA,Gujarat
+225,226,Dr.Snehal C.Parikh,9427720307,Bhini M. Karavadra,9825678020,P.K. General Hospital,Rajkot,NA,Gujarat
+226,227,Dr. Deval Vora,9825314036,Vishnu V. Gurjar,9824221509,"G. G. General Hospital &
+ M.P. Shah Medical College",Jamnagar,Jamnagar,Gujarat
+227,228,Dr. Premchand Singh,9998849234,Rajesh A. Dafda,9913914272,"General Hospital‐
+ Jamkhambhalia","Jamkhambhalia, Jamnagar",NA,Gujarat
+228,229,Dr. Jasmine Mehta,"9925426713
+ 9879452555",Avni Dave,9998055301,"G.K.General Hospital‐
+ Bhuj","Bhuj, Kutch",Kutch,Gujarat
+229,230,Dr. Bhavesh Astik,9426039493,Chirag Khatsuriya,9429164192,Sir. T. General Hospital & Government Medical College,Bhavnagar,Bhavnagar,Gujarat
+230,231,Dr. Samir Mehta,9998025659,Bharat S. Titiya,9427261049,"Shree Hunumant Seva
+ Medical Trust","Nesvad‐ Devaliya Bypass ,N.H.
+ No.8E, Mahuva, Bhavnagar",NA,Gujarat
+231,232,Dr. A.S. Vadher,9428560850,Meenaben Parmar,9427416030,"General Hospital, Amreli",Amreli,Amreli,Gujarat
+232,233,Dr.Hemendra Solanki,9426233713,Mensibhai M. Solanki,8140255040,"General Hospital,
+ Junagadh",Junagadh,Junagadh,Gujarat
+233,234,Dr. Badal Gandhi,9724314459,Alkaben Motivarsh,9909739772,"General Hospital,
+ Porbandar",Porbandar,Porbandar,Gujarat
+234,235,Dr. Raksha Patel,9426570091,Viral finavkar,9998009048,"S.S.G. Hospital & Government Medical
+ College",Vadodara,Vadodara,Gujarat
+235,236,Dr.Rajendra Chauhan,9825564689,Ranjitsinh Rathwa,9979191332,Jamnabai Hospital,Vadodara,NA,Gujarat
+236,237,Dr. Deepak Thakkar,9099927928,Shailesh Bhrahmbhatt,9427470392,"General Hospital,
+ Bharuch",Bharuch,Bharuch,Gujarat
+237,238,Dr. Bhavna Gadhvi,9426277281,Mahesh J. Patel,9879925477,"General Hospital, Dahod",Dahod,Dahod,Gujarat
+238,239,Dr. Yogesh Patel,"9426840659
+ 9909985246",Pravin M. Rohit,9909380774,"General Hospital‐
+ Rajpipala","Rajpipala, Narmada",Narmada,Gujarat
+239,240,Dr. Roshni Vora,9825605918,Mahendra M. Bariya,9904466399,"General Hospital‐
+ Godhara","Godhara, Panchmahal",Panchmahal,Gujarat
+240,241,Dr. Dipak Umrigar,9426848687,Bipin B. Chaudhari,9879131424,"New Civil Hospital & Government Medical
+ College","Majura Gate, Surat",Surat,Gujarat
+241,242,Dr. Mukund Y. Desail,9374925949,Preksha Gamit,9998520457,"Haji A.M.Lokhat & Dr.A.M.Mulla Sarvajanic
+ Hospital","Rampura Petrol Pump, Rampura, Surat",NA,Gujarat
+242,243,Dr. Paresh Patel,9909656356,Jaydipa N. Chaudhari,8141274227,Shree Prannath Hospital,"Ved Road, Surat",NA,Gujarat
+243,244,Dr. Dipak Chaudhari,9898338955,Rohit R. Chauhan,9998793054,"General Hospital,
+ Navsari",Navsari,Navsari,Gujarat
+244,245,Dr. Harsha Tandel,9825035608,Vacant,NA,"General Hospital, Valsad",Valsad,Valsad,Gujarat
+245,246,Dr. Mukesh Rathwa,9426926446,Naresh N. Gamit,9601781872,"General Hospital, Dang",Dang,Dang,Gujarat
+246,247,Dr. Dinesh,9416097575,Manoj Kumar,9416111544,GH Ambala,"STD Clinic,GH Ambala",Ambala,Haryana
+247,248,Dr. Dinesh Malik,9812038636,seema,9466338777,GH Bhiwani,"STD Clinic,GH Bhiwani",Bhiwani,Haryana
+248,249,Dr. Dara Singh,9873562651,smita,9868842761,GH Faridabad,"STD Clinic,GH Faridabad",Faridabad,Haryana
+249,250,Dr. Rama Bansal,9812522109,Ramesh chand,9996308759,GH Fatehabad,"STD Clinic,GH Fatehabad",Fatehabad,Haryana
+250,251,Dr. Neelam Thaper,9958244722,surender,9896960252,GH Gurgoan,"STD Clinic,GH Gurgaon",Gurgoan,Haryana
+251,252,Dr. Veenu Dhanda,01662‐250377,parmod Kumar,9466735566,GH Hisar,"STD Clinic,GH Hisar",Hisar,Haryana
+252,253,Dr. Anil Birla,9466766556,Ravi,9466555100,GH Jind,"STD Clinic,GH Jind",Jind,Haryana
+253,254,Dr. Usha Kataria,9466906171,Shashi Kala,9466448744,GH Jhajjar,"STD Clinic,GH Jhajjar",Jhajjar,Haryana
+254,255,Dr. Suman Lata,9466066448,Balvinder,9729602601,GH Kaithal,"STD Clinic,GH Kaithal",Kaithal,Haryana
+255,256,Dr. Kiran Bajaj,9812733250,Kanta Rani,9813355885,GH Karnal,"STD Clinic,GH Karnal",Karnal,Haryana
+256,257,Dr. vivek Aggarwal,9416782008,Dhyan Chand,9466152999,GH Kurukshetra,"STD Clinic,GH Kurukshetra",Kurukshetra,Haryana
+257,258,Dr. Krishan Mohan,9355285707,NA,9671103211,GH Mahendergarh,"STD Clinic,GH Kaithal","Mahendergar
+ h",Haryana
+258,259,Dr. Bhawna,"drbhawnasingh@
+ yahoo.com/9671 540803",NA,9416504371,GH Mewat,"STD Clinic,GH Mewat",Mewat,Haryana
+259,260,Dr. Parmod Bansal,9876431113,NA,9466275871,GH Panchkula,"STD Clinic, H  Panchkula",Panchkula,Haryana
+260,261,Dr. Raghvendra Singh,9996208580,NA,9416323530,GH Panipat,"STD Clinic,GH Panipat",Panipat,Haryana
+261,262,Dr. Sanjay Vats,9813779207,NA,9417251706,GH Rewari,"STD Clinic,GH Rewari",Rewari,Haryana
+262,263,Dr. Bharat Bhushan,bbderma@gmail. com9812301917,NA,9466231105,GH Rohtak,"STD Clinic,GH  Rohtak",Rohtak,Haryana
+263,264,Dr. Santosh Bishnoi,9812087777,NA,9416120461,GH Sirsa,"STD Clinic,GH Sirsa",Sirsa,Haryana
+264,265,Dr. S. P. Singhal,9416324100,NA,9050833535,GH Sonipat,"STD Clinic,GH Sonepat",Sonipat,Haryana
+265,266,Dr.VK Jain,9466361858,NA,972983000000,GH Yamunanagar,"STD Clinic,GH Yamunanagar",Yamunanagar,Haryana
+266,267,NA,NA,NA,972964773,GH Palwal,"STD Clinic,GH Palwal",Palwal,Haryana
+267,268,Dr. Kamal Aggrawal,"9416357200,
+ drkamalaggrawal @live.in",NA,9916864099,"PGIMS,Rohtak","STD Clinic,PGIMS Rohtak","PGIMS,Rohtak",Haryana
+268,269,Dr. Chandan Mal Guri,9671658489,NA,9466654100,"MAMC, Agroha","STD Clinic,GH MAIMRE, Agroha,
+ Hisar","MAMC,
+ Agroha",Haryana
+269,270,Dr.Sanjeev Gupta,9812017161,NA,9729647792,"MM,College Mullana","STD Clinic,MM College Mullana
+ Ambala.","MM,College
+ Mullana",Haryana
+270,271,Dr. Anupam Sharma,NA,Ms. Seema Thakur,9459278166,Bilaspur,Bilaspur,Bilaspur,Himachal Pradesh
+271,272,Dr.Subhash Chauhan,9418732007,Mr. Chain Singh,9418774982,Chamba,Chamba,Chamba,Himachal Pradesh
+272,273,Dr. Praveen Sharma,NA,Mrs. Sonia Kaundal,9418624744,Hamirpur,Hamirpur,Hamirpur,Himachal Pradesh
+273,274,Dr. N L Sharma,9418066844,"Mr. Lalit, Mr. Kapil Dev",9805322783,"Kangra, Tanda",Kangra,Kangra,Himachal Pradesh
+274,275,Dr. R K Negi,9418732007,Mr. Pradeep Negi,9418207558,Kinnaur,Kinnaur,Kinnaur,Himachal Pradesh
+275,276,Dr. Sushil Chander,NA,Ms. Sheela Thakur,9418660607,Kullu,kullu,kullu,Himachal Pradesh
+276,277,Dr. Cherring,NA,Mr. Ajay Kumar,NA,Lahaul& Spiti,Lahaul& Spiti,Lahaul& Spiti,Himachal Pradesh
+277,278,Dr. Sarla Chand,9418464003,Mr. seemant Thakur,9418944564,Mandi,Mandi,Mandi,Himachal Pradesh
+278,279,Dr. vinay Shankar . Dr. H K Malhotra,"9418454710 .
+ .","Anita Jhingta,
+ Ms. Virma
+ Ms. Sonia Jaswal","9418848597
+ 9418356121
+ 9816317297","Shimla,IGMC. Shimla,KNH. Shimla",Shimla,Shimla,Himachal Pradesh
+279,280,Dr. Sanjay Sharma,NA,Ms. Rachna Gautam,9418125575,sirmour,Sirmaur,Sirmaur,Himachal Pradesh
+280,281,NA,NA,Ms. Arpana,9816911103,"Solan, Parwanoo",Solan,Solan,Himachal Pradesh
+281,282,Dr. Anita Sharma,97363303130,Ms. Manorma Devi,9817183600,Una,Una,Una,Himachal Pradesh
+282,283,Dr. Divya Suri,9419189677,NA,NA,"Deptt. of Dermatology, GMC, Jammu","GMC, Jammu",Jammu,J & K
+283,284,Dr. Javaid,NA,NA,NA,"Mobile STI Clinic (DHS),
+ Jammu","State Venereologist, DHS, Jammu",Jammu,J & K
+284,285,Dr. Satbir Singh,9419366693,NA,NA,"Govt  Hospital  Ganghi
+ Nagar, Jammu","Govt  Hospital  Ganghi  Nagar,
+ Jammu",Jammu,J & K
+285,286,NA,NA,NA,NA,"Govt  Hospital,  Sarwal,
+ Jammu","Govt Hospital, Sarwal, Jammu",Jammu,J & K
+286,287,NA,NA,NA,NA,"STI Clinic, DH, Kathua","District Hospital, Kathua",Kathua,J & K
+287,288,NA,NA,NA,NA,"STI Clinic, SDH, Basholi","Sub‐District Hospital, Basoli,
+ Kathua",Kathua,J & K
+288,289,Dr. Radhika Gupta,9419607449,NA,NA,"STI Clinic, DH, Samba","District Hospital, Samba",Samba,J & K
+289,290,NA,NA,NA,NA,"STI Clinic, DH, Rajouri","District Hospital, Rajouri",Rajouri,J & K
+290,291,NA,NA,NA,NA,"STI Clinic, DH, Poonch","District Hospital, Poonch",Poonch,J & K
+291,292,NA,NA,NA,NA,"STI Clinic, DH, Doda","District Hospital, Doda",Doda,J & K
+292,293,NA,NA,NA,NA,"STI Clinic, SDH,
+ Baderwah","Sub‐District Hospital, Baderwah,
+ Doda",Doda,J & K
+293,294,NA,NA,NA,NA,"STI Clinic, DH,
+ Udhampur","District Hospital, Udhampur",Udhampur,J & K
+294,295,NA,NA,NA,NA,"STI Clinic, SDH,
+ Ramnagar","Sub‐District Hospital, Ramnagar",Udhampur,J & K
+295,296,NA,NA,NA,NA,"STI Clinic, DH, Reasi","District Hospital, Reasi",Reasi,J & K
+296,297,"Dr. Lily Urfan
+ Dr. Naseer Ahmad Dr. Aliya Qayoom",9419018915,NA,NA,"Deptt. of Dermatology, GMC, Srinagar","GMC, Srinagar",Srinagar,J & K
+297,298,NA,9469275768,NA,NA,"STI Clinic, DH, Annatnag","MCCH, Ananatnag",Anantnag,J & K
+298,299,NA,9797823817,NA,NA,"STI Clinic, DH, Baramulla","District Hospital, Baramulla",Baramulla,J & K
+299,300,Dr. Bharati Dutta,9431738188,Subhash Hembrom,9631220765,Sadar Hospital,PHC Chas Bokaro,Bokaro,Jharkhand
+300,301,Dr. K.K. Kisku,9431854712,Birendra Ram,9431988321,Sadar Hospital,Sadar Hospital Chatra,Chatra,Jharkhand
+301,302,Dr. T. P. Singh,9431163660,Anjan Kumar,9693105215,Sadar Hospital,Sadar Hospital Deogghar,Deoghar,Jharkhand
+302,303,P. K. Sengar,9430707424,Sumitra Baraik,9939174847,Medical College,PMCH Dhanbad,Dhanbad,Jharkhand
+303,304,Dr. Alok Viskarma,9431390974,NA,NA,Sadar Hospital,Jharkhand,Dhanbad,Jharkhand
+304,305,Dr. Kumar Bagish,9430158338,Chanchal Kumari,9431762159,Sadar Hospital,Sadar Hospital Dumka,Dumka,Jharkhand
+305,306,Dr. P.K. Barla,9431344266,Anita Kumari,9204674649,Medical College,"MGMMCH Jamshedpur, E
+ Singhbhum",E. Singhbhum,Jharkhand
+306,307,Dr. A.C. Jha,9431347084,Punam Mehta,"9431749683
+ 9431175671",PHC Behragoda,NA,E. Singhbhum,Jharkhand
+307,308,Jwala Pd. Singh,9771853461,Anuranjan Kumar,9308769794,Sadar Hospital,Sadar Hospital Garhwa,Garhwa,Jharkhand
+308,309,Dr. Prabhu Narayan Jha,9939113633,Sona Ludhri Banra,9234493758,Sadar Hospital,Sadar Hospital Giridih,Giridih,Jharkhand
+309,310,Dr. S. N. Tanti,9431157274,Sanatan Kumar,9386571364,Sadar Hospital,Sadar Hospital Godda,Godda,Jharkhand
+310,311,Dr. J.P. Sanga,9431502991,Sambika Singh,9471365418,Sadar Hospital,Sadar Hospital Gumla,Gumla,Jharkhand
+311,312,Dr. Ajay Kumar Ranjan,9431437711,Preety Agrawal,9470317400,Sadar Hospital,Sadar Hospital Hazaribagh,Hazaribagh,Jharkhand
+312,313,"Dr. Shyam Sundar
+ Paswan",9334371558,Naresh Chandra Gorian,9304190979,Sadar Hospital,Sadar Hospital Jamtara,Jamtara,Jharkhand
+313,314,"Dr. Ravi Bhushan
+ Agrawal",9430352375,Priti Bala Shalini Tirkey,9570207959,Sadar Hospital,Sadar Hospital Khunti,Khunti,Jharkhand
+314,315,Dr. Sheo Kumar,9430016154,Sudha Kumari,9798159447,Sadar Hospital,Sadar Hospital Koderma,Koderma,Jharkhand
+315,316,Dr. Braj Nandan Kumar,9430197090,Anjana Kumari Rajak,9470166365,Sadar Hospital,Sadar Hospital Latehar,Latehar,Jharkhand
+316,317,Dr. Shailesh Kumar,9661144544,Bindeshwar Bhagat,9304808092,Sadar Hospital,Sadar Hospital Lohardaga,Lohardaga,Jharkhand
+317,318,Dr. Bindu Bhushan,9431154757,Dr. Bibhash Chandra Jha,9470376939,Sadar Hospital,Sadar Hospital Pakur,Pakur,Jharkhand
+318,319,Dr. U.P. Sinha,9431135278,Tanuja Sinha,9471509620,Sadar Hospital,"Sadar Hospital Daltonganj
+ Palamu",Palamau,Jharkhand
+319,320,"Dr. Anil Kumar Jang
+ Bahadur",9430600208,Sweta,9431357402,Sadar Hospital,Sadar Hospital Ramgarh,Ramgarh,Jharkhand
+320,321,D. K. Mishra,9431361389,Dr. Ira Kumari,9931888721,Medical College,RIMS Bariyatu Ranchi,Ranchi,Jharkhand
+321,322,Dr. N.K. Bhagat,9431189435,"Dr. Satyajeet Kumar
+ Singh",9471378103,Sadar Hospital,Sadar Hospital Ranchi,Ranchi,Jharkhand
+322,323,Dr. P.P. Panday,9431674151,Manoj Kr Sarandi,9470937043,Sadar Hospital,Sadar Hospital Sahebganj,Sahebganj,Jharkhand
+323,324,Dr. Sunder Lov,9431176729,NA,NA,Sadar Hospital,Sadar Hospital Saraikela,Saraikela,Jharkhand
+324,325,Dr. R.R. D Ekka,9334901041,Shakuntala Sinku,9955361523,Sadar Hospital,Sadar Hospital Simdega,Simdega,Jharkhand
+325,326,Dr. Hari Prasad,9431522050,Lav Kr Singh,9534111181,Sadar Hospital,"Sadar Hospital Chaibasa, West
+ Singhbhum","W.
+ Singhbhum",Jharkhand
+326,327,Dr B.N.Naik,9448609260,"Basappa Padiyappa
+ Koppad",9900293902,"District Hospital,
+ Bagalkote.","District Hospital, Bagalkote.",Bagalkote,Karnataka
+327,328,Dr Leelavathi,9448169982,Vacant,NA,Bowring & Lady Curzon Hospital,"Bowring & Lady Curzon Hospital, Shivajinagar, Bangalore.",Bangalore Urban,Karnataka
+328,329,Dr Raveendra Mohan,9242416476,Vacant,NA,"General Hospital,
+ Jayanagar.","General Hospital, Jayanagar,
+ Bangalore.",Bangalore Urban,Karnataka
+329,330,Dr Chandrakanth,9845365571,Satish Kumar B.R.,9481836349,K.C. General Hospital.,"K.C. General Hospital,
+ Malleshwaram, Bangalore",Bangalore Urban,Karnataka
+330,331,Dr Revathi T.N.,9845751781,Vacant,NA,Victoria Hospital.,"Victoria Hospital, Fort Road,
+ Bangalore.",Bangalore Urban,Karnataka
+331,332,NA,NA,Vacant,NA,ESI Hospital,"ESI Hospital, Indiranagar,
+ Bangalore.",Bangalore Urban,Karnataka
+332,333,Dr Sumithra,9448503841,Santhosh Kumar,NA,"District Hospital,
+ Ramnagar.","District Hospital, Ramnagar.",Ramnagar,Karnataka
+333,334,Dr Jayashree,9448293311,Revana Siddappa B.,9845319665,"District Hospital,
+ Belgaum.","District Hospital, Belgaum.",Belgaum,Karnataka
+334,335,Dr Vijayalakshmi Hangal,9945211750,Siddappa I Deshnoor,9845319665,"General Hospital,
+ Saundatti, Belgaum.","General Hospital, Saundatti,
+ Belgaum.",NA,Karnataka
+335,336,Dr Shreelekha,9449828688,Vacant,NA,"District Hospital, Bellary.","District Hospital, Bellary.",Bellary,Karnataka
+336,337,Dr Raghavendra Prasad,9986464990,"Chandrakanth
+ Bhimsappa",9343170670,"General Hospital,
+ Hospet.","General Hospital, Hospet, Bellary.",NA,Karnataka
+337,338,Dr Veeresh / Dr Towkane,"9242774194
+ 9448051470",Kapali Mallikarjuna,9485873049,"Vijayanagar Institute of
+ Medical Sciences, (VIMS), Bellary.","Vijayanagar Institute of Medical Sciences (VIMS), Bellary.",NA,Karnataka
+338,339,Dr Kashinath Kambli,9448126747,Sadanand R.Ganji,9900979080,"District Hospital, Bidar.","District Hospital, Bidar.",Bidar,Karnataka
+339,340,Dr Yadgiri Vikas / Dr Vijay Biradar,"9448368990 /
+ 9886091264 /
+ 9449258008",Santhosh N.Tenglai,9342697837,"District Hospital, Bijapur.","District Hospital, Bijapur.",Bijapur,Karnataka
+340,341,Dr Girish,9845986413,Vacant,NA,"District Hospital,
+ Chamarajnagar.","District Hospital, Chamarajnagar.","Chamarajnaga
+ r",Karnataka
+341,342,Dr Kannaiah,9448132632,Vacant,NA,"District Hospital,
+ Chikkamagallur.","Mallegowda Hospital,
+ Chikkamagallur.","Chikkamagall
+ ur",Karnataka
+342,343,Dr Virupakshappa,9886644849,Ravindra M.L.,9964525258,"District Hospital,
+ Chitradurga.","District Hospital, Chitradurga.",Chitradurga,Karnataka
+343,344,"Dr Sangameshwara
+ G.M.",9980251868,Vacant,NA,"District Hospital,
+ Mangalore.","Wenlock Hospital, Mangalore.","Mangalore
+ (D.K.)",Karnataka
+344,345,Dr Chaitanya S.,9964675449,Geethanjali T.,NA,"District Hospital,
+ Davanagere.","Chigateri Hospital, Davanagere.",Davanagere,Karnataka
+345,346,Dr G.S.Bellad,9480324691,"Chidananda
+ Devendrappa",9972080642,"District Hospital,
+ Dharwad.","District Hospital, Dharwad.",Dharwad,Karnataka
+346,347,NA,NA,Vacant,NA,"Karnataka Institute of Medical Sciences, (KIMS), Hubli, Dharwad",NA,NA,Karnataka
+347,348,Dr B.S.Patel,9448165730,Ramu,9620034464,"District Hospital, Gadag.","District Hospital, Gadag.",Gadag,Karnataka
+348,349,Dr Devendrappa,9845998585,Premalatha Shinde L.,9740478464,"District Hospital,
+ Gulbarga.","District Hospital, Gulbarga.",Gulbarga,Karnataka
+349,350,Dr Jagadish Uppin,9480463138,Mahesh Babu,9740623126,"General Hospital,
+ Shahpur, Gulbarga.","General Hospital, Shahpur,
+ Gulbarga.",NA,Karnataka
+350,351,Dr H.R.Umadevi,9449204640,Vacant,NA,"District Hospital,
+ Hassan.","District Hospital, Hassan.",Hassan,Karnataka
+351,352,Dr Belgarkar G.S.,9867795956,Nilambika,"9686167475 /
+ 9972977254","District Hospital, Haveri.","District Hospital, Haveri.",Haveri,Karnataka
+352,353,Nil,NA,Vacant,NA,"District Hospital,
+ Kodagu.","District Hospital, Kodagu.",Kodagu,Karnataka
+353,354,Dr Diwakar,9845178770,Vacant,NA,"District Hospital,
+ Chikkaballapur.","District Hospital, Chikkaballapur.","Chikkaballapu
+ r",Karnataka
+354,355,Dr Savitha,9972700577,Rajeev K.R.,NA,"District Hospital, Kolar.","S.N.R.Hospital, Kolar.",Kolar,Karnataka
+355,356,Dr Bhanu Devi,9845122875,Vacant,NA,"General Hospital, K.G.F.,
+ Kolar.","General Hospital, K.G.F., Kolar.",NA,Karnataka
+356,357,Dr Lakshminarayana,9448954173,Govinda Reddy,9945902678,"District Hospital, Koppal.","District Hospital, Koppal.",Koppal,Karnataka
+357,358,Dr Harish,9448323157,Vacant,NA,"District Hospital,
+ Mandya.","District Hospital, Mandya.",Mandya,Karnataka
+358,359,Dr Hanumanthappa,9845128818,Vacant,NA,"District Hospital,
+ Mysore.","K.R.Hospital, Mysore.",Mysore,Karnataka
+359,360,Dr C.N.Kulkarni,9886448088,Dharmaraj Vijay,9880475357,"District Hospital,
+ Raichur.","District Hospital, Raichur.",Raichur,Karnataka
+360,361,"Dr Manjunath / Dr
+ Dhananjay","984503875 /
+ 9964675449",Parvathamma,9008524444,"District Hospital,
+ Shimoga.","Mcgann Hospital, Shimoga.",Shimoga,Karnataka
+361,362,Dr Govinda Raju,9448214490,Huchanarasaiah,9986692808,"District Hospital,
+ Tumkur.","District Hospital, Tumkur.",Tumkur,Karnataka
+362,363,Dr Subhash Kini,9448000521,"Rajeev Yellappa
+ Chutilmadi",9480415215,"District Hospital, Udupi.","District Hospital, Udupi.",Udupi,Karnataka
+363,364,Dr. A.K.Naik,9449647061,Fakirappa Kukadoli,9964516809,"District Hospital,
+ Karwar.","District Hospital, Karwar.",Karwar (U.K.),Karnataka
+364,365,Dr Anupama,9844517900,Vacant,NA,"General Hospital,
+ Ankola, Karwar.","General Hospital, Ankola, Karwar.",NA,Karnataka
+365,366,Dr.R Radhakrishnan,9847144765,Ramakrishnan K V,9947566778,Medical College Hospital,Medical College Hospital Trivandrum,Trivandrum,Kerala
+366,367,"Dr.Lohidakshan
+ Unnithan",9447221859,P.J Anoop,9539205666,General Hospital,"General Hospital
+ Trivandrum",Trivandrum,Kerala
+367,368,Dr.V.S Devakumar,9447043320,Sindu. L,9605582567,District Hospital,"District Hospital
+ Kollam",Kollam,Kerala
+368,369,Dr.R Gopakumar,9447211614,Resmi Rajan,9995793385,General Hospital,"General Hospital
+ Pathanamthitta","Pathanamthit
+ ta",Kerala
+369,370,Dr.V. Sreedevan,9447029829,NA,NA,Medical College Hospital,Medical College Hospital Alappuzha‐ 5,Alappuzha,Kerala
+370,371,Dr. K N Padmakumar,9847128323,Satheesh Joy F,9961231376,General Hospital,"General Hospital
+ Alappuzha",Alappuzha,Kerala
+371,372,Dr.Sadeep,9447230559,Jinu Sebastian,9447766464,Medical College Hospital,Medical College Hospital Kottayam,Kottayam,Kerala
+372,373,Dr.Shyju A R,9447473720,Jinu Sebastian,9447766464,District Hospital,"District Hospital
+ Kottayam",Kottayam,Kerala
+373,374,Dr. Deepa Augustine,9349242241,Nishida Prasad,9947656914,"Co‐operative Medical
+ College","Co‐operative Medical College
+ Kalamassery, Kochi",Ernakulam,Kerala
+374,375,Dr.Kochurani,9447290097,Manju K Poovelil,9020787820,General Hospital,"General Hospital
+ Ernakulam",Enakulam,Kerala
+375,376,Dr. T O Navas,9447803879,Arun P,9895610465,District Hospital,"District Hospital
+ Painvu, Idukki",Idukki,Kerala
+376,377,Dr.Ajithkumar,9447226012,Rajeev G,9846156490,Medical College Hospital,"Medical College Hospital
+ Mulamkunnathukavu, Thrissur",Thrissur,Kerala
+377,378,Dr. LN Bhagyalekshmi,9447176400,Sumi Francis,9447877616,District Hospital,"District Hospital
+ Thrissur",Thrissur,Kerala
+378,379,Dr. Sasi,9447905227,R Unnikrishnan,9846941992,District Hospital,"District Hospital
+ Palakkad",Palakkad,Kerala
+379,380,Dr. Saffiya,9497349585,Yoosuf Ali,9249540824,District Hospital,"District Hospital
+ Manjeri, Malappuram",Malappuram,Kerala
+380,381,Dr. Najeeba Riyaz,9847062663,Suchithra K.V,9746519779,Medical College Hospital,Medical College Hospital Kozhikode,Kozhikode,Kerala
+381,382,Dr. Prasanth,9447950197,T.M Anuradha,9446576714,Govt. General Hospital,"Govt. General Hospital
+ Kozhikode",Kozhikode,Kerala
+382,383,Dr.Sasidharan,9447633102,Senna Sebastian,9846186121,District Hospital,"District Hospital
+ Manathawady Wayanad",Wayanad,Kerala
+383,384,Dr. Bify Joy,9847074794,Ajo Jose,9946913421,"Acadamy of Medical
+ Sceince","Acadamy of Medical Sceince
+ Pariyaram,Kannur",Kannur,Kerala
+384,385,Dr. Sonia A K,9847148548,Shibila Kumari,9961339958,District Hospital,"District Hospital
+ Kannur",Kannur,Kerala
+385,386,Dr. Sapna A.B,9446168787,Lijo Joseph C.L,9846186121,District Hospital,"District Hospital
+ Kanhangad, Kasargod",Kasargod,Kerala
+386,387,Dr. P. Dhoke,9425345818,NA,NA,District Hospital,District Hospital,Alirajpur,Madhya Pradesh
+387,388,Dr. S.C. Rai,9425473063,NA,NA,District Hospital,District Hospital,Anuppur,Madhya Pradesh
+388,389,Dr. D.K. Bhargav,9425137291,Santosh Bhargav,8103009910,District Hospital,District Hospital,Ashok Nagar,Madhya Pradesh
+389,390,Dr. Geeta Barmate,9827402254,Ku. Anju Meshram,9893582513,District Hospital,District Hospital,Balaghat,Madhya Pradesh
+390,391,Dr. Manisha Saxena,07290‐227226,NA,NA,District Hospital,District Hospital,Barwani,Madhya Pradesh
+391,392,Dr. Ashok Baranga,9425002915,NA,NA,District Hospital,District Hospital,Betul,Madhya Pradesh
+392,393,Dr. K.K. Dixit,9425144211,NA,NA,District Hospital,District Hospital,Bhind,Madhya Pradesh
+393,394,Dr. Basanti Sahu,9425363122,Divya Dubey,9301246878,District Hospital,District Hospital,Bhopal,Madhya Pradesh
+394,395,Dr. Anna Alex,9425301991,Smt. Manjusha Dixit,9926672992,Gandhi Medical College,Gandhi Medical College,Bhopal,Madhya Pradesh
+395,396,Dr. Juhi Agrawal,9893130430,Smt. Manjusha Dixit,9926672992,Sultania Lady Hospital,Sultania Lady Hospital,Bhopal,Madhya Pradesh
+396,397,Dr. Joyti Khare,9425605624,Basant Jarelia,9993312239,Dr. K.N. Katju Hospital,Dr. K.N. Katju Hospital,Bhopal,Madhya Pradesh
+397,398,"Dr. (Smt.) Mubina
+ Bohra",9926057782,Raju Pawar,8085001982,District Hospital,District Hospital,Bhuranpur,Madhya Pradesh
+398,399,"Dr. (Smt.) Sangita
+ Choubey",9425142492,Sachin K. Chaurasia,9993228263,District Hospital,District Hospital,Chhatarpur,Madhya Pradesh
+399,400,Dr. Dilip Mehra,9424721580,Manish K. Dubey,9425461601,District Hospital,District Hospital,Chhindwara,Madhya Pradesh
+400,401,Dr. Shraddha Gangele,7162222183,Sushila Dubey,9755814674,District Hospital,District Hospital,Damoh,Madhya Pradesh
+401,402,Dr. K.M. Varun,9893106475,Radhakant Khare,"9425114665,
+ 9981520077",District Hospital,District Hospital,Datia,Madhya Pradesh
+402,403,Dr. Sulbha Laghate,9302330300,Radhakant Khare,"9425114665,
+ 9981520077",Lady Hospital,Lady Hospital,Datia,Madhya Pradesh
+403,404,Dr. Ashok Verma,9827223657,Akshay Sharma,"9009226293,
+ 6990562",District Hospital,District Hospital,Dewas,Madhya Pradesh
+404,405,Dr. Nandita Nigam,9827223657,Ku. Richa Chaudhary,"9098292838,
+ 07292233714",District Hospital,District Hospital,Dhar,Madhya Pradesh
+405,406,Dr. Ajay Raj,9424940380,NA,NA,District Hospital,District Hospital,Dindori,Madhya Pradesh
+406,407,Dr. Rajendra S. Bhati,9425131784,Ku. Rupam Bhargav,"9425770279,
+ 9425767476",District Hospital,District Hospital,Guna,Madhya Pradesh
+407,408,Dr. Rajni Jain,9425308006,Ku. Dipti Kushwah,9300229270,District Hospital,District Hospital,Gwalior,Madhya Pradesh
+408,409,Dr. Urmila Tripathi,9301129291,Divya Agrawal,9827645949,G.R. Medical College,G.R. Medical College,Gwalior,Madhya Pradesh
+409,410,Dr. S.P. Sharma,9424487306,Sangita Solanki,9669700494,District Hospital,District Hospital,Harda,Madhya Pradesh
+410,411,Dr. R.K. Bamania,9893188672,Vivek Kumar Patwa,9329834235,District Hospital,District Hospital,Hoshangabad,Madhya Pradesh
+411,412,Dr. Prabha Shukla,9425042421,Smt. Priti Minda,9827629607,District Hospital,District Hospital,Indore,Madhya Pradesh
+412,413,Dr. (Smt.) Maru,9826018046,Smt. Shalini Jain,9981686697,MGM Medical College,MGM Medical College,Indore,Madhya Pradesh
+413,414,Dr. Shefali Ojha,9301515664,Vinod Sharma,9827742161,"Seth Hukumchand
+ Hospital",Seth Hukumchand Hospital,Indore,Madhya Pradesh
+414,415,Dr. Hema Dhand,9425358259,NA,NA,MTH Hospital,MTH Hospital,Indore,Madhya Pradesh
+415,416,Dr. Ajit Dubey,9425152714,Vinita Mehra,"9301442039,
+ 9301375784",District Hospital,District Hospital,Jabalpur,Madhya Pradesh
+416,417,Dr.(Smt.) Usha Gupta,9425151600,Vibha Upadhyay,"9425324621,
+ 9425324663",NSCB Medical College,NSCB Medical College,Jabalpur,Madhya Pradesh
+417,418,Dr. (Smt.) Nisha Sahu,9425867225,Rakhi Majumdar,"9827385759,
+ 9993560593",Elgin Lady Hospital,Elgin Lady Hospital,Jabalpur,Madhya Pradesh
+418,419,Dr. Purnima Gadaria,9425033743,Hiralal Mandloi,9981106716,District Hospital,District Hospital,Jhabua,Madhya Pradesh
+419,420,Dr. Sunita Verma,9425801252,Dinesh Kumar Asati,9406536123,District Hospital,District Hospital,Katni,Madhya Pradesh
+420,421,Dr. Tara Saraf,0733‐2224105,Kanhaiya Bhalrai,9826528203,District Hospital,District Hospital,Khandwa,Madhya Pradesh
+421,422,Dr. Indira Gupta,9826607478,Vinod Kumar Patel,9425080471,District Hospital,District Hospital,Khargoan,Madhya Pradesh
+422,423,Dr. A. . Shrivastava,9425163674,Ku. Rashmi Patel,"9424783898,
+ 9893959872",District Hospital,District Hospital,Mandla,Madhya Pradesh
+423,424,Dr. A.K. Nakum,9425107889,Narendra Arora,9424077785,District Hospital,District Hospital,Mandsour,Madhya Pradesh
+424,425,Dr. Chandra Jatav,9425127584,Mrs. Shilpi Gupta (ICTC),9893109834,District Hospital,District Hospital,Morena,Madhya Pradesh
+425,426,Dr. D. Kumar,9425168689,Prashant K. Soni,"9977464084,
+ 07585256094",District Hospital,District Hospital,Narsinghpur,Madhya Pradesh
+426,427,Dr. R.P. Maheshwari,9827256222,Palash Mane,9406659633,District Hospital,District Hospital,Neemuch,Madhya Pradesh
+427,428,Dr. Meena Namdeo,9425420500,Akhilesh Kumar Srivas,"9300699204,
+ 07582231959",District Hospital,District Hospital,Panna,Madhya Pradesh
+428,429,Dr. Pritibala Sonkar,9425492811,Smt. Urmila Jain,"9713519995,
+ 9300416449",District Hospital,District Hospital,Raisen,Madhya Pradesh
+429,430,Dr. P.K. Jain,9617558048,Kaushal K. Piplotia,9329220716,District Hospital,District Hospital,Rajgarh,Madhya Pradesh
+430,431,Dr. Pratibha Sharma,9229660429,Manish K. Sharma,9907388070,District Hospital,District Hospital,Ratlam,Madhya Pradesh
+431,432,Dr. Achla Tripathi,9425838859,Aparna Tripathi,"9179912440,
+ 9827303875",District Hospital,District Hospital,Rewa,Madhya Pradesh
+432,433,Dr. Meena Bhargava,9425059798,Shailja Singh Tiwari,"9630388738,
+ 9993017714",S.S. Medical College,S.S. Medical College,Rewa,Madhya Pradesh
+433,434,Dr. R.K. Dixit,9827245793,Praveen Dubey,"9329977410,
+ 07582243256",District Hospital,District Hospital,Sagar,Madhya Pradesh
+434,435,Dr. K.K. Kavre,9425005733,Meghna Jadia,"9406557043,
+ 9329565665",Medical College,Medical College,Sagar,Madhya Pradesh
+435,436,Dr. B.L. Gupta,9425477411,Rambahor Prajapati,9993795195,District Hospital,District Hospital,Satna,Madhya Pradesh
+436,437,Dr. Manju Saxena,9893520982,NA,NA,District Hospital,District Hospital,Sehore,Madhya Pradesh
+437,438,Dr. Manisha Sirsam,9420888625,Foujia Anjum Qureshi,"9755234115,
+ 9301082883",District Hospital,District Hospital,Seoni,Madhya Pradesh
+438,439,Dr. A.K. Garg,9826234898,NA,NA,District Hospital,District Hospital,Sheopur,Madhya Pradesh
+439,440,Dr. Rajesh Pandey,9425182724,Ravishankar Katia,"9303727483,
+ 9907056858",District Hospital,District Hospital,Shahdol,Madhya Pradesh
+440,441,Dr. Alok Saxena,9826060452,NA,NA,District Hospital,District Hospital,Shajapur,Madhya Pradesh
+441,442,Dr. M.L. Agrawal,9755128683,Rajkumar Mathur,9826901457,District Hospital,District Hospital,Shivpuri,Madhya Pradesh
+442,443,Dr. S.B. Khare,9425179510,NA,NA,District Hospital,District Hospital,Sidhi,Madhya Pradesh
+443,444,Dr. R. Kumar,9425391077,NA,NA,District Hospital,District Hospital,Singrauli,Madhya Pradesh
+444,445,Dr. V. Kathel,9425145450,NA,NA,District Hospital,District Hospital,Tikamgarh,Madhya Pradesh
+445,446,"Dr. Ravindra
+ Shrivastava",9826243412,Dinesh Malvi,9300404318,District Hospital,District Hospital,Ujjain,Madhya Pradesh
+446,447,Dr. A.P. Dwivedi,9425183710,Harsh Kumari Thakur,"9329041704,
+ 233577",District Hospital,District Hospital,Umaria,Madhya Pradesh
+447,448,Dr. H. Ahirwal,9826350947,Rakesh Kumar Sen,9098472942,District Hospital,District Hospital,Vidisha,Madhya Pradesh
+448,449,Dr.G.S.Gaikawad,9822646857,Ms. Swapna R. Salve,9850866335,Civil Hospital,"Civil Hospital, Ahmednagar‐414
+ 001",Ahmednagar,Maharastra
+449,450,Dr. S.P.Joshi,9422156778,Mr. Amol Shende,9325515590,Civil Hospital,"Civil Hospital, Akola‐444 001",Akola,Maharastra
+450,451,Dr. Gadhawekar,NA,Mr. Avinash Raut,9970501144,District Women Hospital,"District Women Hospital, Akola",NA,Maharastra
+451,452,Dr. Kulkarni,9822734588,Mr. Amol More,9923365021,Civil Hospital,"Civil Hospital, Amravati‐ 444 601",Amravati,Maharastra
+452,453,NA,NA,Mr. Vinod Hagavane,9422158858,District Women Hospital,"District Women Hospital,
+ Amravati‐ 444 601",NA,Maharastra
+453,454,Dr. Unawane,99229438761,Ms. Vrushali Prakash Thosar,9422223097,"Aurangabad Corporation Hospital,
+ Cidco.","Aurangabad Corporation Hospital, Cidco.Aurangabad‐ 431
+ 001",Aurangabad,Maharastra
+454,455,Dr. Hare,9822201959,Mr. Maharudra V. Galat,9372858382,Govt. Medical College,"Govt. Medical College
+ Aurangabad‐ 431 001",NA,Maharastra
+455,456,"Dr, I.V shinde",NA,Mr. Pravin P. Shelmukar,9980785055,Civil Hospital,"Civil Hospital, Beed‐431 122",Beed,Maharastra
+456,457,Dr. Phad,94120904210,Mr. Anil Chavan,9096208945,"SRTR Medical College,
+ Ambejogai","SRTR Medical College,
+ Ambejogai, Beed‐ 431 122",NA,Maharastra
+457,458,Dr. Chacharkar,9423401583,Mr. Nitin Badole,9764011512,Civil Hospital,"Civil Hospital, Bhandara‐441 904",Bhandara,Maharastra
+458,459,Dr. Sainath Paditwar,9822299455,Mr. Bharat Kole,9604190242,Civil Hospital,"Civil Hospital, Buldhana‐ 443 001",Buldhana,Maharastra
+459,460,Dr. Vinod Mahurkar,9421877337,Miss. Rakhi Deshmukh,9422145037,Civil Hospital,"Civil Hospital,Chandrapur‐442
+ 401",Chandrapur,Maharastra
+460,461,Dr. Abhijit Shinde,NA,"Mr. Pravin B.
+ Suryavanshi",9420110208,"SBHG Medical College,
+ Dhule","SBHG Medical College, Dhule‐
+ 424 001",Dhule,Maharastra
+461,462,Dr. P.D.Madhavi,9422153258,Mr. Kishor Ramteke,9673038886,Civil Hospital,"Civil Hospital, Gadchiroli‐442 605",Gadchiroli,Maharastra
+462,463,Dr. A.K.Gharmore,9422834128,Mr. Jitendra Borde,9850684226,Civil Hospital,"Civil Hospital, Gondia‐441 601",Gondia,Maharastra
+463,464,Dr. Mupkalwar,NA,Rakhi Pimparkar,9881912008,Civil Hospital,"Civil Hospital,Hingoli‐431 513",Hingoli,Maharastra
+464,465,Dr. Suraj Wani,9321715497,Mr. Jagdish B. Shinde,9730556424,Civil Hospital,"Civil Hospital, Jalgaon‐425 001",Jalgaon,Maharastra
+465,466,Dr. Doiphode,9730717071,"Mr. Nandbodhee S.
+ Pagare",8087650096,Civil Hospital,"Civil Hospital, Jalna‐ 431 203",Jalna,Maharastra
+466,467,NA,NA,Ms. Ratna Waghmare,9403494007,District Women Hospital,"District Women Hospital, Jalna‐
+ 431 203",Jalna,Maharastra
+467,468,Dr. Suryawanshi,9850516278,Ms. Anjana S. Chougule,9890174242,"CPR, Kolhapur","CPR, Kolhapur, Kolhapur‐416 012",Kolhapur,Maharastra
+468,469,Dr.Owal,9422649911,Mr. Trimbak S. Gawale,9272346430,Govt Medical college,"Govt Medical college, Latur‐413
+ 512",Latur,Maharastra
+469,470,Dr. Mukhi,9422806416,Ms. Yamini Karwade,9763229695,Daga Memorial Hospital,"Daga Memorial Hospital, Nagpur‐
+ 440 002",Nagpur,Maharastra
+470,471,Dr. R.P. Singh,9373107692,Ms. Nirma Dhakare,9421700236,Govt. Medical College,"Govt. Medical College Nagpur‐
+ 440 002",Nagpur,Maharastra
+471,472,Dr. Dharmendra Mishra,9823291735,Ms. Bhavana Medhe,9422477830,"IGMC, Nagpur.","IGMC, Nagpur‐440 002",Nagpur,Maharastra
+472,473,NA,NA,Mr. Subhash Godgate,9860661167,"Govt Medical College‐
+ OBGY & Gynae Dept","Govt Medical College‐OBGY &
+ Gynae Dept Nagpur‐440 002",Nagpur,Maharastra
+473,474,Dr.D.N.Hazare,9326183696,"Mr. Santosh O.
+ Suryawanshi",9890386049,Civil Hospital,"Civil Hospital, Nanded‐431 601",Nanded,Maharastra
+474,475,Dr. Borase,9422791259,Mr. Jitendra Sonavane,9960387908,Civil Hospital,"Civil Hospital, Nandurbar‐ 425
+ 412",Nandurbar,Maharastra
+475,476,Dr. Bansi,9850948696,Mr. Rakesh S. Sonavane,9226307301,Civil Hospital,"Civil Hospital, Nashik‐422 001",Nashik,Maharastra
+476,477,Dr. Sadanand Naik,9860268411,Ms. Anita N. gore,9623289583,Bytco Hospital Nasik,Bytco Hospital Nasik 422 001,Nashik,Maharastra
+477,478,Dr. Diwan,9422202499,"Mr. Samadhan C.
+ Nawale",9011221474,Civil Hospital,"Civil Hospital, Osmanabad‐413
+ 501",Osmanabad,Maharastra
+478,479,Dr. Ashok Janapurkar,9422176277,Mr. Anil S. Chindale,"9822886433/902
+ 1744736",Civil Hospital,"Civil Hospital, Parbhani‐431 401",Parbhani,Maharastra
+479,480,Dr. S. C. Mate,9922501582,Vacant,NA,PCMC Talera Hospital,"PCMC Talera Hospital,Pune‐ 411
+ 001",Pune,Maharastra
+480,481,Dr. Vijay Jadhav,9923300087,Mr. Avinash S. Mistri,9822145609,"Pune Municipal
+ Gadikhana Hospital","Pune Municipal Gadikhana
+ Hospital ,Pune‐ 411 001",Pune,Maharastra
+481,482,Dr. Mhaske,9423581435,Ms. Ashwini Nandankar,9370845805,B.J. Medical Collge,"B.J. Medical College , Pune‐ 411
+ 001",Pune,Maharastra
+482,483,Dr.Sadawarte,9923178140,Vacant,NA,Civil Hospital,"Civil Hospital, Raigad‐ 402 201",Raigad,Maharastra
+483,484,Dr.Dhumale,9422422047,Mrs. Pratima D. Patil,9823585580,Civil Hospital,"Civil Hospital, Ratnagiri‐415 612",Ratnagiri,Maharastra
+484,485,Dr. Mansi Ghatke,9890134004,Ms. Nanda S.Kamble,9766337905,"Sangli Miraj Municipal
+ Hospital","Sangli Miraj Municipal
+ Hospital,Sangli‐416 416",Sangli,Maharastra
+485,486,Dr. Shrivastav,94220140971,Ms. Seema Kamble,9766824685,Civil Hospital,"Civil Hospital, Sangli‐ 416 416",Sangli,Maharastra
+486,487,Dr. Vaishali Sapre,9423864128,"Mr. Pankaj Krishnarao
+ Khot",9960596983,Civil Hospital,"Civil Hospital, Satara‐415 001",Satara,Maharastra
+487,488,Dr. K.D.Nanaware,9423266409,Mr. Ranjit Jadhav,9270940881,Civil Hospital,"Civil Hospital, Sindhudurg‐416
+ 812",Sindhudurg,Maharastra
+488,489,Dr. Karyakarte,NA,Mr. Amol Mane,9850794038,Govt. Medical College,"Govt. Medical College, Solapur‐
+ 413 001",Solapur,Maharastra
+489,490,Dr.Ghuse,9930993661,"Mr. Mahendra S.
+ Surwade",9987877328,Civil Hospital,"Civil Hospital, Thane‐ 400 601",Thane,Maharastra
+490,491,Dr. Dinesh Chorashiya,9881093942,"Ms. Sulakshana A.
+ Takpire",9881869190,"Central Hospital
+ Ulhasnagar.","Central Hospital Ulhasnagar ,
+ Thane‐ 400 601","Thane
+ (Ulhasnagar)",Maharastra
+491,492,Dr. Gautam Dhethe,9819336064,Mr. Vinod Patil,9699604998,"Navi Mumbai Hospital, Washi.","Navi Mumbai Municipal Corporation Hospital, Vashi ,
+ Thane‐ 400 601",Thane (Navi Mumbai),Maharastra
+492,493,Dr. Madhav Diwale,9371157937,Mr. Nitin Sakhare,9975645040,Civil Hospital,"Civil Hospital, Wardha‐ 442 001",Wardha,Maharastra
+493,494,NA,NA,Mr. Prashant Surkar,9637656125,"Sevagram Medical
+ College","Sevagram Medical College
+ Wardha‐ 442 001",Wardha,Maharastra
+494,495,Dr. V.D.Shirsagar,9421759398,Mr. Milind Ghuge,9665840161,Civil Hospital,"Civil Hospital, Washim‐ 444 505",Washim,Maharastra
+495,496,Dr. S.U. Lingawar,9423133073,Mr. Rajesh Chakole,9921532588,Civil Hospital,"Civil Hospital, Yeotmal‐ 445 001",Yeotmal,Maharastra
+496,497,Dr. Meghana Phiske,9819030429,Mr. Pravin Londhe,9028884149,"L.T.M.G. Sion Hospital
+ (STI)",Medical College,NA,Mumbai
+497,498,Dr. N.N. Chavan,9320411313,NA,NA,"L.T.M.G. Sion Hospital
+ (RTI)",Medical College,Mumbai,Mumbai
+498,499,Dr. B.B. Adsul,9321019898,NA,NA,"L.T.M.G. Sion Hospital
+ (PSM)",Medical College,NA,Mumbai
+499,500,Dr. Dilip Turbhadkar,9820944342,NA,NA,"L.T.M.G. Sion Hospital
+ (Micro)",Medical College,NA,Mumbai
+500,501,Dr. Ratnakar Kamat,"237355555 Ext
+ 2368",Mr. Vyankatesh D Bachate,9773244006,"Grant Medical College,
+ J.J. Hospital (STI)",Medical College,Mumbai,Mumbai
+501,502,Dr. Rekha Daver,9920840491,NA,NA,"Grant Medical College,
+ J.J. Hospital (RTI)",Medical College,Mumbai,Mumbai
+502,503,Dr. Pavan Sable,9930592082,NA,NA,"Grant Medical College,
+ J.J. Hospital (PSM)",Medical College,NA,Mumbai
+503,504,Dr. Nilima Hirani,9322998305,NA,NA,"Grant Medical College,
+ J.J. Hospital (Micro)",Medical College,NA,Mumbai
+504,505,Dr. Sunanda Mahajan,24468844,"Ms. Bharati Ramchandra
+ Kolate",9922301798,"G.S. Medical college.
+ K.E.M. Hospital (STI)",Medical College,Mumbai,Mumbai
+505,506,Dr.Padmaja Samant,9869066586,NA,NA,"G.S. Medical college.
+ K.E.M. Hospital (RTI)",Medical College,Mumbai,Mumbai
+506,507,Dr. R. Khembavi,9869107798,NA,NA,"G.S. Medical college.
+ K.E.M. Hospital (PSM)",Medical College,NA,Mumbai
+507,508,Dr. Supriya Paranjpe,9987098381,NA,NA,"G.S. Medical college.
+ K.E.M. Hospital (Micro)",Medical College,NA,Mumbai
+508,509,Dr. Chitra Nayak,9819107591,Mr. Tanaji Sonwalkar,9029170908,T.N. Medical College B.Y. L . Nair Hospital (STI),Medical College,Mumbai,Mumbai
+509,510,Dr. Chingling,9820793911,NA,NA,T.N. Medical College B.Y. L . Nair Hospital (RTI),Medical College,Mumbai,Mumbai
+510,511,Dr. Yasmin Kazi,9821742488,NA,NA,T.N. Medical College B.Y. L . Nair Hospital (PSM),Medical College,NA,Mumbai
+511,512,Dr. Anjali Swami,9324902032,NA,NA,T.N. Medical College B.Y. L . Nair Hospital (Micro),Medical College,NA,Mumbai
+512,513,Dr. Suvarna Khadilkar,9820078703,Rekha Kamble,"9969554847/025
+ 1‐2250450",Cama & Albless Hospital,NA,NA,Mumbai
+513,514,NA,NA,NA,NA,NA,NA,NA,Mumbai
+514,515,Dr. Sudhir Medhekar,9820321430,Mr.Chandrakant Koli,9595606230,"J.J. Group of Hospital ,
+ G.T. Hospital",District Hospital,Mumbai,Mumbai
+515,516,Dr. Leena Jamandkar,9819052433,Mrs. Sheetal Raval,9869683129,Siddharth Nagar Municipal Gen Hospital,District Hospital,Mumbai,Mumbai
+516,517,NA,NA,Vacant,NA,"Dr. R.N. Cooper
+ Municipal Gen Hospital",NA,NA,Mumbai
+517,518,Dr. Aishwarya,9819408507,NA,NA,NA,District Hospital,Mumbai,Mumbai
+518,519,Dr. Chitra Korade,9323183964,Ms.Rasana Y Gajabe,9321707441,M.T. Agarwal Municipal Gen Hospital,District Hospital,Mumbai,Mumbai
+519,520,Dr. Barot,9820940375,Mr.Devidas A Baragaje,9967918359,"K.B. Bhabha Hospital
+ (Bandra)",District Hospital,Mumbai,Mumbai
+520,521,Dr. Beena Upadhya,9819441355,Mr. Prabhudas T .Gavit,"9892685032/992
+ 2722857",Rajawadi Hospital,District Hospital,Mumbai,Mumbai
+521,522,Dr. M.B. Kholhar,9930468572,Ms. Rupali Kumavath,9271672782,MAA Hospital,District Hospital,Mumbai,Mumbai
+522,523,Dr. S.Fernandoes,9869107790,Mr. Digambar Sathe,9860281732,"Malvani Urban Health
+ Center",Sub‐ District Hospital,Mumbai,Mumbai
+523,524,Dr. Sanjay Gaikwad,"23074216/28694
+ 598","Ms. Indumati Maruti
+ Shinde",9324083719,Municipal STD Clinic,District Hospital,Mumbai,Mumbai
+524,525,Dr. Anita Shenoy,9820480709,Mr. Pardeshi Sandip Fakira,9594983078,"Shivaji Nagar Urban Health Center, Devenar",Sub‐ District Hospital,Mumbai,Mumbai
+525,526,Dr. K.G.Jawale,9323186891,Mr Hanumant Laxman Gadade,"9763082004 /
+ 9029060566","J.J. Urban Health Center, Bandra – Kherwadi (STI)",Sub‐ District Hospital,Mumbai,Mumbai
+526,527,Dr. Tushar Palve,9821301454,NA,NA,"J.J. Urban Health Center, Bandra – Kherwadi (RTI)",Sub‐ District Hospital,Mumbai,Mumbai
+527,528,Dr. Avinash Mayekar,9869059380,Mrs. Kavita Abhang,9764129227,"Harilal Bhagwati
+ Hospital (STI)",District Hospital,Mumbai,Mumbai
+528,529,Dr. Deepali Gosavi,9967688005,NA,NA,"Harilal Bhagwati
+ Hospital (RTI)",District Hospital,Mumbai,Mumbai
+529,530,Dr. Neelam Kadam,9967586114,Mr. Krishna Angre,9987877471,"K.B. Bhabha Hospital
+ (Kurla)",District Hospital,Mumbai,Mumbai
+530,531,Dr. A.R. Sayad,9820618132,Ramkrishna Reddy,9892668513,V.N. Desai Hospital,District Hospital,Mumbai,Mumbai
+531,532,Dr. A.S. Chawandke,NA,Mr. Suryakant S Munde,8080662450,"Centernary Hospital
+ Kandiwali",District Hospital,Mumbai,Mumbai
+532,533,Dr. Madhuri Bhaskar,9969554124,Mr. Machindra Rama Bhosale,"9224617110‐
+ ravi/9833070602 Ram",Santa Muktabai Hospital,District Hospital,Mumbai,Mumbai
+533,534,Dr. Sonal Gate,9987020120,Ms. Shobha Gode,9657367996,S.V. D. Savarkar Hospital,District Hospital,Mumbai,Mumbai
+534,535,Dr. Palavi Shelke,9867003734,Mr.Sunil Jagtap,9595832544,"Dharavi Urban Health
+ center (STI)",Sub‐ District Hospital,Mumbai,Mumbai
+535,536,Dr. Archana Bhosale,9867168656,NA,NA,"Dharavi Urban Health
+ center(RTI)",Sub‐ District Hospital,Mumbai,Mumbai
+536,537,Dr. Pratibha Thorawade,9821865203,Ms. Amrutaben Dhivare,9637341235,M. W Desai Hospital,District Hospital,Mumbai,Mumbai
+537,538,Dr. Sheetal,9820601511,NA,NA,"K.J. Somaiya Hospital
+ (Private)",District Hospital,Mumbai,Mumbai
+538,539,Dr. Th. Bijenti Devi,NA,"Appointment by June
+ '10",9436270367‐LT,RIMS,Lamphel,Imphal West,Manipur
+539,540,Dr. Th. Rajendra,9436026234,"Appointment by June
+ '10","9863243403‐LT,
+ 2442602‐N","UHC, Singjamei",Singjamei,Imphal West,Manipur
+540,541,Dr. K. Lokendro Singh,9862009701,Appointment by June '10,"9856267846‐LT,
+ 9862008916‐N","J.N.Hospital, Imphal",Porompat,Impha East,Manipur
+541,542,Dr. Ng. Jayenta Singh,9436033200,Appointment by June '10,"9856176612‐LT,
+ 9856574143‐N","DH, Bishnupur",Bishnupur,Bishnupur,Manipur
+542,543,Dr. A. Tiken Singh,9436039690,"Appointment by June
+ '10",9856853302‐LT,"DH, Ccpur",Ccpur,Ccpur,Manipur
+543,544,Dr. Helen Shimray,9436651621,Appointment by June '10,"9402837035‐LT,
+ 9436348223‐N","DH, Senapati",Senapati,Senapati,Manipur
+544,545,Dr. Sh. Mangol Singh,9856594349,"Appointment by June
+ '10",NA,"DH, Thoubal",Thoubal,Thoubal,Manipur
+545,546,Dr. Bonthaoliu Gangmei,9436289733,"Appointment by June
+ '10",9402081487‐N,"DH, Tamenglong",Tamenglong,Tamenglong,Manipur
+546,547,Dr. R.K. Surjit,9436275054,"Appointment by June
+ '10",NA,"DH, Chandel",Chandel,Chandel,Manipur
+547,548,Dr. A. Kabichandra,9856108734,"Appointment by June
+ '10",9402403745‐N,"DH, Ukhrul",Ukhrul,Ukhrul,Manipur
+548,549,Dr. (Mrs) V.F. Bareh,098630‐91304,Smt. Wanda W. Wan,9863660805,"Civil Hospital, Shillong","Civil Hospital, E. K. Hills, Shillong","East Khasi
+ Hills",Meghalaya
+549,550,Dr. (Mrs) N.M. Shylla,94361‐03225,"Ms. Shabalyne L.
+ Mawlang",9856612667,Ganesh Das Hospital,"Ganesh Das Hospital, Shillong","East Khasi
+ Hills",Meghalaya
+550,551,Dr. J. Baum,9615444992,Smt. Layentiewdor E paswett,9774104667,"Civil Hospital, Jowai ","Jowai Civil Hospital, Jowai, Jaintia Hills",Jaintia Hills,Meghalaya
+551,552,Dr. P. Lyngkhoi,9856005713,"Mr. Banshailang
+ Kharmujai",9774509795,Nongstoin CHC,"Nongstoin CHC, Nongstoin, W.K.
+ Hills","West Khail
+ Hills",Meghalaya
+552,553,Dr. G. Wahlang,9863242256,"Smt. Baphinda S
+ Thangkhiew",9862041942,"CHC Nongpoh, Nongpoh","CHC Nongpoh, Nongpoh, Ri‐Bhoi
+ Dist.",Ri‐Bhoi,Meghalaya
+553,554,Dr. Manthu Sangma,9436708603,"Smt. Donborlang
+ Marbaniang",9774156418,"Civil Hospital, Tura","Civil Hospital, Tura, W.G. Hills","West Garo
+ Hills",Meghalaya
+554,555,Dr.Checent R. Marak,9615302750,Smt. Bidhu S Sangma,943632787,"Williamnagar Civil Hospital, Williamnagar","Williamnagar Civil Hospital, Williamnagar, E. G. Hills",East Garo Hills,Meghalaya
+555,556,Dr. Sengsang Sangma,9436708603,Smt. Theresa G. Momin,9615038821,"Baghmara C ivil
+ Hospital, Baghmara","Baghmara C ivil Hospital,
+ Baghmara, S.G. Hills","South Garo
+ Hills",Meghalaya
+556,557,Dr.Lalthlengliani,Ph‐9436142265,Ms.Mary Lalremsangi,Ph‐9862366038,"Civil Hosptil, Aizawl","Dawrpui, Aizawl",Aizawl,Mizoram
+557,558,Dr.James R.E.Mawia,Ph‐9436147623,Ms.Pinky Lalrinmawii,Ph‐9862657608,"Civil Hosptil, Champhai",Champhai,Champhai,Mizoram
+558,559,Dr. Vanremmawii,Ph ‐ 9436151135,Ms.Lalhriatrengi,Ph‐9436382480,"Civil Hosptil, Kolasib","Bangla Kawn, Kolasib",Kolasib,Mizoram
+559,560,Dr.Lalruatpuii,Ph‐9436197530,Mr.H.F.Zodinpuia,Ph‐9436889304,"Civil Hosptil, Lunglei","Chanmari I, Lunglei",Lunglei,Mizoram
+560,561,Dr.Lalbiakdiki,Ph‐9436151136,"Mr.Joseph VL
+ Chhandama",Ph‐9436316979,"Civil Hosptil, Serchhip",Serchhip,Serchhip,Mizoram
+561,562,Dr.Lalrinfela,Ph‐9436353675,Ms.Lalhlupuii,Ph‐9436774396,"Civil Hosptil, Lawngtlai",Lawngtlai,Lawngtlai,Mizoram
+562,563,Dr.S.Vabeilysa,Ph‐9436148247,Mr.C.Vanlalsawma,Ph‐9862176573,"Civil Hosptil, Saiha","Medical Veng, Saiha",Saiha,Mizoram
+563,564,Dr.Zosangpuii,Ph‐9436141094,Ms.C.Dengmawii,Ph‐9862386354,"Civil Hosptil, Mamit","Lungsir Veng, Mamit",Mamit,Mizoram
+564,565,Dr. Amenla,9436002121,Ms. Khrielavonuo Solo,9863187470,District Hospital Kohima,District Hospital Kohima,Kohima,Nagaland
+565,566,Dr Temsu,9436009493,Mr. Imenuklo Longchar,9436066980,"District Hospital
+ Dimapur",District Hospital Dimapur,Diampur,Nagaland
+566,567,Dr. Ayangla,9436007828,"Ms. Sentizenla
+ Longkumer",9856785877,"District Hospital
+ Mokokchung",District Hospital Mokokchung,Mokokchung,Nagaland
+567,568,Dr Pangchung,9436655621,Mr. Imotemjen Sangtam,9436817539,"District Hospital
+ Tuensang",District Hospital Tuensang,Tuensang,Nagaland
+568,569,Dr Shikato,9863586909,Ms. Monglong Konyak,"9436409585
+  
+ 943640912","District Hospital
+ Zunheboto",District Hospital Zunheboto,Zunheboto,Nagaland
+569,570,Dr Lhoukhovi,9436011664,Mr.Zuchamo R. Yanthan,NA,District Hospital Peren,District Hospital Peren,Peren,Nagaland
+570,571,Dr George,NA,Ms. Ikali Y.Sema,9856102575,District Hospital Mon,District Hospital Mon,Mon,Nagaland
+571,572,Dr Emanuel,9856036602,Ms. Nutalü H. Keyho,9856319351,District Hospital Wokha,District Hospital Wokha,Wokha,Nagaland
+572,573,Dr Azo Louis,9436009531,Mr. Vimeko Sophie,9436408501,District Hospital Phek,District Hospital Phek,Phek,Nagaland
+573,574,Dr Zemato,9436011664,Ms. Melengunuo,9856520843,District Hospital Kiphire,District Hospital Kiphire,Kiphire,Nagaland
+574,575,Dr Imnameren,9436011651,Ms.Chenlem Phom,9402018333,"District Hospital
+ Longleng",District Hospital Longleng,Longleng,Nagaland
+575,576,Dr Biswajit Samal,9437195229,Sumitra Mohapatra,94394155633,"Distict Headquarter
+ Hospital","DHH,Angul",Anugul,Orrisa
+576,577,Dr Jayashree Mohanty,9861237635,Maheswata Moharana,9853772532,DHH,Bhadrak,Bhadrak,Orrisa
+577,578,Dr Debashis Tripathy,9861187606,Lokanath Mohakud,9237192196,DHH,Bolangir,Bolangir,Orrisa
+578,579,Dr Surjit Nayak & Dr Dibha Padhi,"9437186214 &
+ 9778187537",Rasmi Ranjan Samantray & Rupak Kumari Panda,"9778457380 &
+ 9861235010","MKCG Medical college, Berhampur & City Hospital,Berhampur",Berhampur,Ganjam,Orrisa
+579,580,Dr Sumant kumar Dash,9437267885,Vacant,NA,Balasore,Balasore,Balesore,Orrisa
+580,581,"Dr Siba Ch Tripathy, Dr M.Harichandan & Dr R.K.Panigrahi","9437060545
+ ,9437208517 &
+ 9437217718","Swadhina Mohapatra, Sarita Patra & Kamal Rout","9861111429,943
+ 7872969 &
+ 9439493895","DHH,Capital Hospital,BBSR & Municipality Hospital,BBSR","DHH,Capital Hospital,BBSR & Municipality Hospital,BBSR",Khurda,Orrisa
+581,582,Dr Renuka Dash,9437591400,Utkalini Swain,9776102240,Koraput,Koraput,Koraput,Orrisa
+582,583,Dr Lilly Begum,NA,Subhashree Das,9438281973,Boudh,Boudh,Boudh,Orrisa
+583,584,Dr Binodini Behera,9437449940,"Rati Priya Behura, City Hospital, Cuttack‐
+ Vacant",9238823778,"SCB Medical College, Cuttack & City Hospital, Cuttack","SCB Medical College, Cuttack & City Hospital, Cuttack",Cuttack,Orrisa
+584,585,NA,NA,Vacant,NA,Deogarh,Deogarh,Deogarh,Orrisa
+585,586,Dr Sudhakar Biswal,943720988,Elina Jena,9439341471,Jagatsinghpur,Jagatsinghpur,Jagatsinghpur,Orrisa
+586,587,Dr Sukhadayini Behera,9437208211,Sarita Mohanty,9861743232,Jajpur,Jajpur,Jajpur,Orrisa
+587,588,Dr L.Sahoo,9437293809,Vacant,NA,"Bhawanipatna,Kalahandi","Bhawanipatna,Kalahandi",Kalahandi,Orrisa
+588,589,Dr Sumitra Sahoo,9437607626,"Kshirabdhi Tanaya
+ Swain",9178864600,Kendrapara,Kendrapara,Kendrapara,Orrisa
+589,590,Dr Bijoy Kumar Rout,9438390105,Nibedita Parida,9438676462,", Keonjhar",", Keonjhar",Keonjhar,Orrisa
+590,591,"Dr Krushna Ch
+ Mohapatra",9438207111,Sesha Sankar Mahalik,9438620047,Malkanagiri,Malkanagiri,Malkanagiri,Orrisa
+591,592,Dr Raj Kishore Sahu,9437571342,Prachi Mohanty,9437065464,"Baripada, Mayurbhanja","Baripada, Mayurbhanja",Mayurbhanja,Orrisa
+592,593,Dr J.K.Behera,06858‐222057,Aswini Ku Bahubalendra,9438037817,Nabarangapur,Nabarangapur,Nabarangapur,Orrisa
+593,594,Dr Bijoy Kumar Parida,9437446690,Rasmita Mohanty,9778342428,Nayagarh,Nayagarh,Nayagarh,Orrisa
+594,595,Dr Sachindra Ku Panda,06678‐223346,Sangram Keshari Rana,9938386623,Nuapada,Nuapada,Nuapada,Orrisa
+595,596,Dr Nilanchal Singh,9437123055,Nibedita Das,9438505634,Puri,Puri,Puri,Orrisa
+596,597,Dr U.K.Rath,9437373239,Dillip Ku Rout,9583363569,Rayagada,Rayagada,Rayagada,Orrisa
+597,598,"Dr R.C.Naik &Dr Deepak
+ Ku Jena",9437559805,"Debakanta Sarangi &
+ Arundhati Mishra","9438202764 &
+ 9437639487","DHH, Sambalpur & VSS Medical
+ College, Burla","DHH, Sambalpur & VSS Medical
+ College, Burla",Sambalpur,Orrisa
+598,599,Dr Gurupada Das,9668107232,Vacant,NA,Sonepur,Sonepur,Sonepur,Orrisa
+599,600,"Dr P.S.Sidhu,RGH,RKL",9778175859,"Sundargarh‐Vacant, Madhusmita Nayak,RGH",9338461483,"DHH, Sundargarh & RGH,Rourkela","DHH, Sundargarh & RGH,Rourkela",Sundargarh,Orrisa
+600,601,Dr Janabi Satapathy,9338733150,Dileswari Sahoo,9938427714,Bargarh,Bargarh,Baragarh,Orrisa
+601,602,Dr B.C.Pradhan,9861036845,Vacant,NA,Dhenkanal,Dhenkanal,Dhenkanal,Orrisa
+602,603,Dr R.Narayan Rao,06815‐222265,Pradeep Ku Sahoo,9861788355,Paralakhemundi,Paralakhemundi,Gajapati,Orrisa
+603,604,Dr A.K.Pandit,9437392564,Biswamitra Dharua,9439392592,Jharsuguda,Jharsuguda,Jharsuguda,Orrisa
+604,605,Dr Gangadhar Behera,9437124037,Chittaranjan Mallick,9937599275,Kandhamai,Kandhamai,Kandhamal,Orrisa
+605,606,Dr. M.L.Gambhir,9814211159,"Ms. Ramandeep Kaur
+ (GMC)",9814933078,Govt. Medical College,"GMC, Amritsar",Amritsar,Punjab
+606,607,Dr. Amarjit Singh,98761‐81606,Ms. Sarbjit Kaur (CH),9878751197,Civil Hospital,"CH, Amritsar",NA,Punjab
+607,608,Dr. L.R. Jain,98728‐31567,Vacant,NA,Civil Hospital,"CH, Bathinda",Bathinda,Punjab
+608,609,Dr. Charanjit Singh,94630‐30348,Mr. Jasmel Singh,9417472565,Civil Hospital,"CH, Barnala",Barnala,Punjab
+609,610,Dr. Ritu Banga,98551‐64430,Ms. Ramandeep Kaur,9779948248,Civil Hospital,"CH, Fatehgarh Sahib","Fatehgarh
+ Sahib",Punjab
+610,611,Dr. Neerja Talwar,98728‐96448,Mr. Kanwal Jit Singh,9888279269,Civil Hospital,"CH, Ferozepur",Ferozepur,Punjab
+611,612,"Dr. B.B. Mahajan, Asstt.
+ Prof.",98141‐98849,Ms. Payal Gagneja,9779792102,"Guru Gobind Singh
+ Medical College","GGSMC, Faridkot",Faridkot,Punjab
+612,613,Dr. Rana Verma,98551‐51679,Mr. Vikas Kumar,9876439709,Civil Hospital,"CH, Gurdaspur",Gurdaspur,Punjab
+613,614,"Dr. Sham Sunder
+ Sharma",94170‐32688,Ms. Sarbjit Kaur,9463419977,Civil Hospital,"CH, Hoshiarpur",Hoshiarpur,Punjab
+614,615,Dr. Brenna,94171‐24488,Ms. Upasna,9316177557,Civil Hospital,"CH, Jalandhar",Jalandhar,Punjab
+615,616,Dr. Princejit Singh,98154‐21898,Mr. Devi Dayal,9781742665,Civil Hospital,"CH, Kapurthala",Kapurthala,Punjab
+616,617,Dr. Geeta,98762‐95191,"Mr. Manpreet Singh
+ (CH)",9815820541,Civil Hospital,"CH, Ludhiana",Ludhiana,Punjab
+617,618,Dr. Paulina Chodhry,98789 71990,Ms. Baljeet Kaur (CMC),9463008378,"Christan Medical
+ College","CMC, Ludhiana",NA,Punjab
+618,619,Dr. Naresh Bansal,94170‐06080,Ms.Beant Kaur,9463346318,Civil Hospital,"CH, Mansa",Mansa,Punjab
+619,620,Dr. Jagroop Singh,94171‐15210,Ms. Seema Rani,9876503979,Civil Hospital,"CH, Moga",Moga,Punjab
+620,621,Dr. Iqbal,98724‐26950,Ms. Sonia,9876560679,Civil Hospital,"CH, Mohali",Mohali,Punjab
+621,622,Dr. Satish Kumar,98145‐36863,Mr. Mahinder Pal Singh,9465658151,Civil Hospital,"CH, Muktsar",Muktsar,Punjab
+622,623,Dr. Harwant Singh Gill,98142‐15614,Mr. Malkit Chand,9855957925,Civil Hospital,"CH, NawanShahar",Nawanshahar,Punjab
+623,624,Dr. Dimple Chopra,98148 17588,"Ms. Preet Markan
+ (GMC)",9815830136,Govt. Medical College,"GMC, Patiala",Patiala,Punjab
+624,625,Dr. M.S. Dhaliwal,98140‐81835,"Ms.. Maninder Kaur
+ (MKH)",9646756464,Mata Kaushlya Hospital,"MKH, Patiala",NA,Punjab
+625,626,Dr. Manjit Kaur,98155‐04077,Mr. Gaganpreet Singh,9888737180,Civil Hospital,"CH, Ropar",Ropar,Punjab
+626,627,Dr. Harish Malhotra,NA,Ms. Pushvinder Kaur,9417905729,Civil Hospital,"CH, Sangrur",Sangrur,Punjab
+627,628,Dr. Ravinder Kaur,94174‐61296,Ms. Reetika Grover,9501900639,Civil Hospital,"CH, Taran Taran",Taran Taran,Punjab
+628,629,Dr. Raj Kumar,9414118811,Suresh Kumar,9462964577,JlN Hosp,Ajmer,Ajmer,Rajasthan
+629,630,Dr. Purnima Pachori,NA,Naseem Banu,8107454304,Mahila,Ajmer,NA,Rajasthan
+630,631,Dr. Pradeep Jain,9414008925,Kaasim Ali,9929920271,Govt. Hosp,Beawar,NA,Rajasthan
+631,632,Dr. Ashok Malhotra,9414334661,Babu Mohamad,9829913345,Govt. Hosp,Kishangarh,NA,Rajasthan
+632,633,Dr. Mukesh Saini,9414280514,Sanjeev Kumar,9929817210,Govt. Hosp,Alwar,Alwar,Rajasthan
+633,634,Dr. Arnima Biswas,9414101384,Ram swaroop kameriya,"941313900,
+ 9461187530",Govt. Hosp,Banswara,Banswara,Rajasthan
+634,635,Dr. Alka Garg,9414190824,Sushil Kumar Sharma,9414990839,Govt. Hosp,Baran,Baran,Rajasthan
+635,636,Dr. B.L. Mansuriya,9414205527,NA,NA,Govt. Hosp,Barmer,Barmer,Rajasthan
+636,637,Dr. G.C. Vadera,9414384393,Brahm Sharma,9783278429,Govt. Hosp,Balotra,NA,Rajasthan
+637,638,"Dr. Sanjay Kul
+ Shrashtha",9414272006,Smt. Smita Singh,"9252004147,
+ 05644‐234322",Govt. Hosp,Bharatpur,Bharatpur,Rajasthan
+638,639,Dr. Kavita Agrawal,0141‐220139,Tushar Rupawat,9875268006,Govt. Hosp,Bhilwara,Bhilwara,Rajasthan
+639,640,Dr. B.C. Ghiya,9413389280,Moman Ram,9828282316,PBM Hosp,Bikaner,Bikaner,Rajasthan
+640,641,Dr. Suniti Verma,9414473152,Dinesh Kumar,"9660175322,
+ 9413539980",PBM Mahila Hosp,Bikaner,NA,Rajasthan
+641,642,Dr. O. P. Sharma,9414175240,Manish Kumar Garg,"9667095249,
+ 9461074880",Govt. Hosp,Bundi,Bundi,Rajasthan
+642,643,Dr. Madhup Bashi,941409232,Yogendra Singh,"9983666182,
+ 9414681628",Govt. Hosp,Chittaurgarh,Chittaurgarh,Rajasthan
+643,644,Dr. Pradeep Agrawal,9414796931,"Maneesh Sharma,",9413748352,Govt. Hosp,Churu,Churu,Rajasthan
+644,645,Dr. Arvind Sharma,9829244262,Pramila Sharma,9461663855,Govt. Hosp,Ratangarh,NA,Rajasthan
+645,646,Dr. Harish,NA,Mamta Gupta,9950550379,Govt. Hosp,Dausa,Dausa,Rajasthan
+646,647,Dr. Mahesh Rathore,9413227911,"Devendra Kumar
+ Parashar",9414710415,Govt. Hosp,Dhaulpur,Dhaulpur,Rajasthan
+647,648,Dr. Amit Gupta,02964‐231611,Chandra Shekhar,9982774208,Govt. Hosp,Dungarpur,Dungarpur,Rajasthan
+648,649,Dr. Ravindra Mehata,9414567046,Mahesh Kumar Sharma,9785221513,Govt. Hosp,Sagwara,NA,Rajasthan
+649,650,Dr. B.B. Dhingra,9414094352,NA,NA,Govt. Hosp,Ganganagar,Ganganagar,Rajasthan
+650,651,Dr. P.L. Hattela,9414449966,Smt. Chandra Kala,"9460955714,
+ 9784708483",Govt. Hosp,Hanumangarh,Hanumangarh,Rajasthan
+651,652,Dr. Amit Malhotra,9460128191,Krishan Kant Sharma,9887913715,SMS Hosp,Jaipur,Jaipur,Rajasthan
+652,653,Dr. O.P. Nagar,9829383880,Pooja Kabra,"8104053330,
+ 9460788804",Mahila Hosp,Jaipur,NA,Rajasthan
+653,654,Dr. Ranjana Jain,9314181847,Shalini,"9983606617,
+ 0141‐2503747",Zanana Hosp,Jaipur,NA,Rajasthan
+654,655,dr. Ravindra,NA,Manish Vaishnav,9828361866,Govt. Hosp,Jaisalmer,Jaisalmer,Rajasthan
+655,656,Dr. Anil Vyash,NA,Jitendra Kumar Sharma,9460738408,Govt. Hosp,Jalor,Jalor,Rajasthan
+656,657,Dr. Ritu Gupta,07432‐233277,Satya Prakash Goutam,"9828193133,
+ 9252520721",Govt. Hosp,Jhalawar,Jhalawar,Rajasthan
+657,658,Dr. Mahaveer Singh,9414213418,Ms. Kanchan goyal,"08058633524,
+ 0141‐2634710",Govt. Hosp,Jhunjhunun,Jhunjhunun,Rajasthan
+658,659,Dr. Hans Lata Gahlot,9414135070,Kavita Joshi,"9785806295,
+ 9414869174",Ummaid Hosp,Jodhpur,Jodhpur,Rajasthan
+659,660,Dr. N.K. Singhi,9460009798,Prabhu Dutt Bohra,"9460550805,
+ 0291‐2790308",MDM Hosp,Jodhpur,NA,Rajasthan
+660,661,Dr. S. P. Gupta,9414071901,Kuldeep Kumar Panday,9785334838,Govt. Hosp,Karauli,Karauli,Rajasthan
+661,662,Dr S. K. Jain,NA,NA,NA,MBS Hosp,Kota,Kota,Rajasthan
+662,663,Dr Mamta Sharma,NA,NA,NA,J K Loan Hosp,Kota,NA,Rajasthan
+663,664,Dr. sandeep Rana,9414327167,Vikram Singh Rathore,9461124184,Govt. Hosp,Nagour,Nagaur,Rajasthan
+664,665,"Dr. Dharamveerm
+ Swami",94145417944,"Ranveer Singh,","9928105204,
+ 9001311205",Govt. Hosp,Deedwana,NA,Rajasthan
+665,666,Dr. P.R. Meghnani,9414205883,Narpat Singh Rathore,9950199457,Govt. Hosp,Pali,Pali,Rajasthan
+666,667,Dr. Sushma Singh,9414272902,Anand singh rawat,9460803122,Govt. Hosp,Rajsamand,Rajsamand,Rajasthan
+667,668,Dr. Sunil Upadhyay,9829165267,Raji Sharma,9680436467,Govt. Hosp,Nathdwara,NA,Rajasthan
+668,669,Dr. Akram Khan,9414030809,Madhu Chodhary,9785793343,Govt. Hosp,Sawai Madhopur,"Sawai
+ Madhopur",Rajasthan
+669,670,Dr. Ramesh,9413857995,Ramawtar Lidhan,9982790252,Govt. Hosp,Sikar,Sikar,Rajasthan
+670,671,Dr. Pradeep Chauhan,9414523007,Sanjay Kumar Sain,9667313680,Govt. Hosp,Sirohi,Sirohi,Rajasthan
+671,672,Dr. Anil,9460553532,Rain Sandeep Bohra,"9462420036,
+ 01432‐243396",Govt. Hosp,Tonk,Tonk,Rajasthan
+672,673,Dr. O. P. Dayma,NA,NA,NA,Govt. Hosp,Pratapgarh,Pratapgarh,Rajasthan
+673,674,Dr Sharad Mehata,NA,Manoj Kumar Sharma,9929298355,RNT Hosp,Udaipur,Udaipur,Rajasthan
+674,675,Dr. G.L. Damod,9414165349,Sudha Kumari,9414633742,Pannadhya Hosp,Udaipur,NA,Rajasthan
+675,676,Dr. T.Peggy,94341 ‐ 03290,Tsewang Dolma Lepcha,"9749077933/983
+ 2016656",STNM Hospital,"HOD, Dermatology, Gangtok",East,Sikkim
+676,677,Dr. Nirloy Sinha,94331 ‐ 25834,Salima Kharel,9832325177,"Central Referrral
+ Hospital","HOD, Dermatology, Manipal,
+ Tadong",East,Sikkim
+677,678,Dr. Shanti Mishra,98323 ‐ 97079,Rita Chettri,9614540194,Singtam District Hospital,"District Medical Superintendent, Singtam District Hospital",East,Sikkim
+678,679,Dr. Anusha Lama,97330 ‐ 20950,Ashamit Lepcha,9775454167,"STD Clinic, Gyalshing","District Medical Superintendent, Gyalshing District Hospital",West,Sikkim
+679,680,Dr. P.K.Basnett,98323 ‐ 75313,Damber Kumari Sharma,"98326439091/94
+ 74983154","STD Clinic, Mangan","District Medical Superintendent, Mangan District Hospital",North,Sikkim
+680,681,Dr. U. Sherpa,94740 ‐ 16394,Robin Acharya,"9832033015/947
+ 460334","STD Clinic, Namchi","HOD, Microbiology, Namchi
+ District Hospital",South,Sikkim
+681,682,"Dr.N.
+ KumarMD.DV.DMRD
+ Dr.V.Thirunavukarasu MD.DV‐
+ Dr.Venkateshwaran MD.DV. Dr.P.Mohan MD.DV‐
+ Dr.S.Arunkumar MD Dr.S.Kalaivani MD.DV Dr.P. Prabakar MDDV‐ Dr.VNS.Ahamed Shariff
+ MD.DVL","9884144359
+ 9840625405
+ 9840044674
+ 9884237875
+ 9884166648
+ 9884592346
+ 9942210853
+ 9884359574",J. Sudha,9840480615,Govt Medical College Hospital,"Institute of Venereology, Govt. General Hospital, Chennai‐03.",Chennai,Tamil Nadu
+682,683,"Dr.Gopalakrishnan, MD,DV., Dr.P.Elango MD. DV.,Dr.Rajkumar DDVL., Dr. Senthil Kumar DVL.,Dr.Saradha DCH MD(DVL)","9360208156
+ 9940342260
+ 9444209478
+ 9444113891
+ 9444892097",J.Jeslin Mary Therese,9841685565,NA,"Department of STD, Stanley Hosp. Ch‐01",Chennai,Tamil Nadu
+683,684,Dr.G.S.Chandra Sekar MD DV,9444126439,IJ.Wilson Raj,9884565049,CAPACS,"Department of STD,Government
+ Royapettah Hospital,Chennai‐ 60014.",Chennai,Tamil Nadu
+684,685,NA,NA,Vacant,Vacant,CAPACS,"Govt.Kilpauk Medical College
+ Hospital,Chennai.600010",Chennai,Tamil Nadu
+685,686,Dr.Dharani,25923143,M.Venkatesan,9840505403,CAPACS,"R.K.Nagar Zone,Nehru Nagar
+ Main Road,Tondiarpet, Chennai.600021",Chennai,Tamil Nadu
+686,687,Dr. Dhanalakshmi,4425951219,A.Kavitha,9789004479,CAPACS,"Sanjeevarayanpet
+ Zone,194,Solaiappan Street,Chennai‐600021",Chennai,Tamil Nadu
+687,688,Dr.Priyadharshini,9790827766,S.Devakirubai,9940693077,CAPACS,"Pulianthope
+ Zone,40,Thiruvenkadam Street,Pulianthope,Chennai‐ 6000012",Chennai,Tamil Nadu
+688,689,Dr.Geralyin,NA,K.Sivakumar,9841541645,CAPACS,"Ayanavaram Zone,29,United
+ India Nagar,Ayanavaram,Chennai‐ 600023",Chennai,Tamil Nadu
+689,690,Dr.Dhanalakshmi,9840333679,G.Jayabharathi,8122297124,CAPACS,"Shenoy Nagar Zone,43,Pulla
+ Avenue,Shenoy Nagar,Chennai‐ 600030",Chennai,Tamil Nadu
+690,691,"Dr.Jayarani ,",4428474147,M.Mekala,9176361564,CAPACS,"Mirsahibpet Zone,11 Begam
+ Salub V Lane,Royapettah,Chennai‐ 600014",Chennai,Tamil Nadu
+691,692,NA,NA,Senthilvel,9944049401,CAPACS,"Perumalpet Zone,30,Kariappa Street, Purasaiwakkam,Chennai‐ 600007.",Chennai,Tamil Nadu
+692,693,Dr . Selvabalani,4424801539,K.palanivel,9884757762,CAPACS,"Vadapalani Zone,65,Arcot
+ Road,Kodambakkam,Chennai‐ 600024",Chennai,Tamil Nadu
+693,694,NA,NA,Vacant,Vacant,CAPACS,"Saidapet Zone,51 Jeenis Road,Saidapet,Chennai‐600015",Chennai,Tamil Nadu
+694,695,Dr.Prasana,4422434186,Jayanthi,9841541645,CAPACS,"Velachery Zone,2,1 st Street, Seva Nagar,Gandhi Road,Velachery,Chennai‐600042",Chennai,Tamil Nadu
+695,696,"Dr. Anbukani DDVL–
+ Dr. Geetha DDVL‐","9444291424
+ 9443300000",J. Sadhana,9962614550,GH,"STI Clinic Govt. Hospital,Ariyalur,
+ 621704",Airyalur,Tamil Nadu
+696,697,"Dr. Kandasamy, DCH",9486493866,S. Vanaja,9843694515,GH,"STI Clinic, Govt.
+ Hospital,Jayamkondan, Ariyalur Dist.",NA,Tamil Nadu
+697,698,"Dr . Thilakavathy Dr .
+ Mahadevan","9940214654
+ 9443359014",C.Nithiya,9942383141,"Govt Medical College
+ Hospital","Government Medical College
+ Hospital",Coimbatore,Tamil Nadu
+698,699,Dr. Seralathan MD,9443169368,K Padmavathi,9688506705,GH,"Government
+ Hospital,Mettupalayam.",Coimbatore,Tamil Nadu
+699,700,"Dr. Raja DCH.,",9443748025,D.Subhashini,9965629830,GH,"Government Hospital,Pollachi..","GHQH, Cuddalore",Tamil Nadu
+700,701,"Dr.Gajalakshmi MBBS
+ DPM.,",9486538474,S.Senthil Murugan,9865548893,GHQH,"GHQH, Cuddalore","GHQH, Cuddalore",Tamil Nadu
+701,702,"Dr.M Vidhyabharathi,
+ DDVL ‐",9600862255,R. Rajalakshmi,9500336066,GH,"Govt. Hospital, Virudhachalam",Cuddalore,Tamil Nadu
+702,703,"Dr. Malarvizhi, DGO i/c
+ Dr. Maithili,","9443633226
+ 9443440148",P.Sivakumar,9944368968,"Govt Medical College
+ Hospital","Govt. Medical College
+ Hospital,Dharmapuri‐1",Dharmapuri,Tamil Nadu
+703,704,"Dr. Meena, MBBS,",9659943331,A.Rahamath Bee,9965237115,GH,"Govt. Hospital,Harur",NA,Tamil Nadu
+704,705,"Dr. Harshavarshini
+ MBBS DD.,",9443583684,S.Chithra,9942383994,GHQH,"Govt. HQ Hospital,Dindigul.",Dindigul,Tamil Nadu
+705,706,"Dr. M.Shanmuga‐ Rajeshwaran,MBBS.DV",9443463156,M.Loganathan,9865028521,GH,"Govt. Hospital,Palani",NA,Tamil Nadu
+706,707,Dr. Vaidhya. MBBS. DLO,9842120092,M.Thangapandi,9790292676,GH,"Govt. Hospital,Kodaikanal",NA,Tamil Nadu
+707,708,"Dr. Ramamani, DGO,",9443019945,K. Ramu,9786838869,GHQH,"Govt. HQ Hospital,Erode.",Erode,Tamil Nadu
+708,709,"Dr. Chitaranjan,",9443762320,P.Ramesh,9842008574,GH,"Govt. Hospital,
+ Gobichettipalayam.",NA,Tamil Nadu
+709,710,"Dr. G.Srinivasan, MD,DV Dr. Murugan MD DVL Dr.Varalakshmi MD DVL","9443837085
+ 944479620
+ 9444140971",.K.Poruran,9382813568‐,Govt Medical College Hospital,"STD Dept, Govt. Medical College Hospital, Chengalpattu.",Kancheepura m,Tamil Nadu
+710,711,"Dr. Thamarainangai,
+ DDVL,",9443025241,S.Akshok Kumar,9894272763,GHQH,"Govt. HQ Hospital,
+ Kancheepuram.",NA,Tamil Nadu
+711,712,Dr.Tamilselvi MBBS,9894461171,Mrs. Maheswari,9841358922,GH,"Govt. Hospital, Tambaram Chrompet, Ch‐600044",NA,Tamil Nadu
+712,713,"Dr. Arumugam,MBBS
+ DTCD",944362056,Mr Sundar,9095033151,GH,GH Madhuranthagam,NA,Tamil Nadu
+713,714,"Dr. Praveen, MD DD,",9443105516,CV.Kannan,9786650277,Govt Medical College Hospital,"Department of STD,Government
+ Medical college Hospital, Nagarcoil.",kanyakumari,Tamil Nadu
+714,715,"Dr. Viajaya MS,",9442156992,D.Shiny Doosin Dhas,9486068406,GHQH,"Govt.Head Quarters Hospital
+ Padmanabhapuram",NA,Tamil Nadu
+715,716,Dr. Gnanaguruvelan MD,9443450349,I.David Xavier,9486110605,GH,"Government Hospital,Kuzhithurai",NA,Tamil Nadu
+716,717,"Dr. Ramasamy, MD,",9345587871,R.Kalpana,9245740198,GHQH,"GHQH,Karur",Karur,Tamil Nadu
+717,718,"Dr. Sudharsanajesudas, DGO,",9443123897,A.Amaldoss,9884844995,GH,Govt. Hospital Kulithalai,NA,Tamil Nadu
+718,719,"Dr. C.Sargunan
+ MBBS,DD.,",9843151118,JP.Arokiyamatha,9150264172,GHQH,"Govt.Head Quarters Hospital
+ Krishnagiri",krishnagiri,Tamil Nadu
+719,720,"Dr. Geetha,
+ MBBS,DVDD",9443252052,M.Cheralathan,9245363755,GH,"Government Hospital,Hosur",NA,Tamil Nadu
+720,721,"Dr Marimuthu MBBS
+ DCH",9585271565,R.Sumathi,9150338230,GH,"Govt. Hospital,Uthankarai",NA,Tamil Nadu
+721,722,Dr. Amalraja MD DV,9443444458,V.Shanmugapriya,9786684662,Govt Medical College Hospital,"Department of STD,Government Rajaji Hospital,Madurai.",Madurai,Tamil Nadu
+722,723,"Dr. Ramalatha,",9942298178,"R.Suja,",9789215006,GHQH,"GHQH,Usilampatti",NA,Tamil Nadu
+723,724,"Dr. Sadhasivam, MBBS
+ DV",9994276252,S.Sudha,9789556804,GH,"GH, Thirumangalam",NA,Tamil Nadu
+724,725,"Dr. P. Ilangovan, Dr
+ .Shyamala",9443943804,M.Jayindradevi,9600454838,GHQH,"Govt. Headquarter
+ Hospital,Nagapattinam.",Nagai,Tamil Nadu
+725,726,"Dr. N. Sampathkumar
+ Dr. Mallika",9443396356,Mrs.Kalyani,9794102999,GH,"Govt. Hospital,Mailaduthurai",NA,Tamil Nadu
+726,727,"Dr. N Chitra MBBS
+ DDVL,",9952800586,B.Sridhar,9487254822,GHQH,GHQH Namakkal,Namakkal,Tamil Nadu
+727,728,Dr.Ulaganathan.MBBS DDVL,9025797173,N.Tamilselvan,9442792596,GH,"G H,Rasipuram.",NA,Tamil Nadu
+728,729,"Dr. Kannan, MBBS. DCH,",NA,M.Valarselvan,9942577308,GH,"GH, Tiruchengodu.",NA,Tamil Nadu
+729,730,Dr.Mohankumar MS,978816746,R.Sathyan,9944715128,GHQH,"Govt. Headquarters
+ Hospital,Nilgiris.",Nilgiris,Tamil Nadu
+730,731,"Dr. Ponmudiselvan
+ MBBS MD DDVL.,",9943434123,M.Nandakumar,9943033683,GH,"Govt. Hospital,Coonoor",NA,Tamil Nadu
+731,732,Dr. Pushparaj MBBS,"9486712423,
+ 9790552346",K. remkumari,9786176896,GH,"Govt. Hospital, udalor",NA,Tamil Nadu
+732,733,"Dr. Saravanan MBBS
+ MD, Dr.Sangeetha MBBS DDVL","9842480820
+ 9444539149",M.Fathima Begam,9894651067,GHQH,GHQH Perambalur,Perambalur,Tamil Nadu
+733,734,"Dr. C. Krishnaraj MBBS
+ DD,",9443411499,M.Sivagami,9442738781,GHQH,"Govt. HQ Hospital,Pudukottai.",Pudukottai,Tamil Nadu
+734,735,"Dr. Gayathri, MBBS",9791648584,Mr. Senthil Kumar,9894015639,GH,"Government Hospital,Aranthangi.",NA,Tamil Nadu
+735,736,"Dr. Shakila MBBS DVL.,",9940774084,N.Shanmugavelu,9994874507,GHQH,"Govt. HeadquartersHospital,
+ Ramanathapuram.",Ramand,Tamil Nadu
+736,737,Dr.Pariyasivam MBBS,"9262404090
+ 9629011793",J.Radha,9659591759,GH,"Govt. Hospital,Paramakudi",NA,Tamil Nadu
+737,738,Dr Angareddy MD DV,9942488001,S.Muthu Thamizharasi,8015459881,GH,"Govt. Hospital,Rameswaram",NA,Tamil Nadu
+738,739,"Dr. Balaji, Dr.Siva kumar MD.DV","9443577562
+ 9443070910",N.Anitha,9965891501,Govt Medical College Hospital,"Department of STD,Mohan
+ Kumaramangalam Medical College Hospital, Salem.",Salem,Tamil Nadu
+739,740,"Dr.Thiyagarajan MD.,",9842611597,A.Chandran,9976059138,GHQH,"Govt. HQ Hospital,MetturDam",NA,Tamil Nadu
+740,741,"Dr. Ganapathi,
+ Dr.Saraswathi MBBS","9443719570
+ 9894563328",M.Sangeetha,"9629652889,
+ 9787443524",GH,"Government Hospital,Sangagiri.",NA,Tamil Nadu
+741,742,Dr.A.K. Kmutha MBBS DPM Dr. Rathiga DGO Dr. Srinivasan MBBS,"9842742959
+ 9865221572
+ 9842704912",P.Selvam,9659356963,GH,"Govt. Hospital,Attur",NA,Tamil Nadu
+742,743,"Dr .Sumathi MBBS
+ DDVL.,",9443013351,E.S.Saravanan,9442381072,GHQH,"Govt. Headquarters
+ Hospital,Sivagangai",Sivagangai,Tamil Nadu
+743,744,"Dr. Ashokkumar MBBS,",9840877157,S.Murugesh Kumar,9159666880,GH,"Govt. Hospital,Devakottai",NA,Tamil Nadu
+744,745,"Dr. Hemalatha
+ MBBS,DGO",9487936716,R. Senthil,9715292897,GH,"Govt. Hospital,Karaikudi",NA,Tamil Nadu
+745,746,"Dr. Gunasekaran,
+ MBBS,MDDV Dr.
+ Sivashankari,MBBS.DVD L.","944874305,
+ 9443823980",A.Pandiaraj,9994512951,Govt Medical College Hospital,"STD Department,Govt. Raja Mirasudhar HospitalThanjavur.",Thanjavur,Tamil Nadu
+746,747,"Dr. Balaji MBBS,",9443173944,R.Nalani,9944866085,GHQH,"GHQH,Kumbakonam.",NA,Tamil Nadu
+747,748,"Dr. IndraMBBS DD,",9003922965,Shanmugavalli,9655576452,GH,"Govt. Hospital,Pattukottai",NA,Tamil Nadu
+748,749,"Dr. Vivekandan MD.,",99650407545,P.Rashya,9865032135,GH,"Govt. Hospital,Peravurani",NA,Tamil Nadu
+749,750,"Dr. A. Mohankumar DV Dr. Uma, MD, DVL,
+ Dr.AKP.Vijayakumar
+ MD,DD","9443475023
+ 9487519462
+ 9842168138",N.Rajagopal,9942517505,Govt Medical College Hospital,"Department of STD,Govt.Theni Medical College Hospital, Theni.",Theni,Tamil Nadu
+750,751,"Dr.Asia,MBBS.",94442783776,R.Rajkumar,9994179867,GHQH,"Govt. Headquarters
+ Hospital,Periyakulam.",NA,Tamil Nadu
+751,752,"Dr.
+ Ponnarasan,MBBS.DV",9443293419,K.A.Raja,9894812932,GH,"Govt. Hospital,Cumbam.",NA,Tamil Nadu
+752,753,Dr. Karthikeyan DNP,9843389308,S.Manikandakumar,9865566604,GH,"Govt. Hospital,Kangeyam",Thirupur,Tamil Nadu
+753,754,Dr. Sureshkumar,9487018787,P.Kalaimani,9788098249,GHQH,"Government Headquarters
+ Hospital,Tiruppur.",NA,Tamil Nadu
+754,755,"Dr.P. Murugan
+ MD.,DSTD",9791505005,T.Elango,9943848706,GH,"Government Hospital,Udumalpet.",NA,Tamil Nadu
+755,756,"Dr. Jesline D.Ortho,",9443422876,D.James Arokyaraj,9003448955,GHQH,"Government Head
+ QuartersHospital, Tenkasi.",Tirunelveli,Tamil Nadu
+756,757,"Dr. KarthikeyanM.D
+ DVL., Dr . M Selvakumar MD,DD
+ Dr.V.Subramanian
+ M.D.,D.V.,","9994704726
+ 9894308296
+ 9444265199",A.Prasad,9894196509,Govt Medical College Hospital,"Department of STD,Thirunelveli Medical CollegeHospital, Tirunelveli",NA,Tamil Nadu
+757,758,"Dr.Balasubramanian
+ Dr.Senthilsekar","9842194435
+ 9443555909",S. Raja mani,9842122918,GH,"Govt. Hospital,
+ Sankarankoil",NA,Tamil Nadu
+758,759,"Dr.
+ SomasundaramMBBS,",9443791028,P.Sathyendran,9894367978,GH,"Govt. Hospital,Nanguneri",NA,Tamil Nadu
+759,760,"Dr. Subbulakshmi,MBBS Dr.Rajkumar. MBBS DCH","9843880574
+ 9443011972",J.Sivasankari,9943473733,GHQH,"Govt. Headquarters Hospital,Thiruvallur.",Tiruvallur,Tamil Nadu
+760,761,"Dr.J.Anithaponmalar
+ MBBS
+ DCH.Dr.M.G.Annamalai MD.,","9791004153
+ 9443417805",N.Suresh Pandian,9500789277,GH,"GH,Tiruthani",NA,Tamil Nadu
+761,762,"Dr. Revathi,MBBS DGO,",9841450967,M.Vimala,9677471865,GH,"GH,Ponneri",NA,Tamil Nadu
+762,763,"Dr.Anitha,MBBS",9842704358,D.Rajesh,9789425131,GH,"GH, Poonamallee, Chennai‐56",NA,Tamil Nadu
+763,764,"Dr.Malarvizhi,",04175‐236080,T.Suganthi,9003672550,GHQH,"GHQH,Thiruvannamalai.",Tiruvannamal ai,Tamil Nadu
+764,765,"Dr. T.Peramanthan
+ MBBS DCH, Dr. M.
+ Rajan MBBS DTCD","9443628729
+ 9444406801",P.Balaji,9488439393,GH,"Govt. Hospital,Polur",NA,Tamil Nadu
+765,766,"Dr. Ravindrababu, MBBS,DV DA",9443676542,V.Sumathi,9600254797,Govt Medical College Hospital,"Govt. HQ ,Medical Collage,Hospital, Thiruvarur.",Tiruvarur,Tamil Nadu
+766,767,"Dr.Murugesh Kumar
+ MBBS",9884457473,PV.Vivekanandam,9487354865,GH,"G. H,Thiruthuraipoondi",NA,Tamil Nadu
+767,768,"Dr. Vasuki M.D,Dr.
+ Ramesh.  DDD,DNS(DV
+ L) Dr. Amudha.MBBS DNB",9842417753,S.Godsun,9944262664,Govt Medical College Hospital,"Department of STD,Govt. Annal Gandhi MemorialMedical College Hospital, Trichy.",Trichy,Tamil Nadu
+768,769,"Dr. Paramagururajesh, Dr. Vijayaraghavan,","9942463233
+ 9952302678",R.Sudakar,9994559289,GHQH,"Gt HQ Hosp ,Manaparai",NA,Tamil Nadu
+769,770,"Dr. ThamilarasiMBBS
+ DCH,",9842433488,J.Gunaseeli,8122397970,GH,GH.Srirangam,NA,Tamil Nadu
+770,771,"Dr. C. Velmurugan,
+ MBBS.,DCH",9865144600,C.Venkatesan,9751719314,GH,"Government Hospital,Thoraiyur.",NA,Tamil Nadu
+771,772,"Dr. Thadues MD.,",9894362992,A.Kala,9942526859,"Govt Medical College
+ Hospital","Dept. of STD,
+ Govt. MCH Thoothukudi.",Tuticorin,Tamil Nadu
+772,773,"Dr.P. Balan M.D,",9842131459,S.Shantha,9894980875,GHQH,"Govt Headquarters,Hospital,
+ Kovilpatti",NA,Tamil Nadu
+773,774,Dr Ramya ‐ MBBS,978943378,Mr . Sundar,9095033151,GH,"Govt. Hospital, Tiruchendur",NA,Tamil Nadu
+774,775,"Dr.Dharmambal, MD
+ Dr.U.R.Dhanalakshmi MD.,DD.,Dr.V.G
+ Kodhandapani,
+ MD.,DD.,","9443812849
+ 9841092452,
+ 9842320519",L.Alex Rajkumar,9994040867,Govt Medical College Hospital,"STD Department,Govt. Medical college Hospital, Vellore. 632011",Vellore,Tamil Nadu
+775,776,"Dr. N. Ravikumar,MBBS",9894557172,D.Umesh Kumar,9043890877,GH,"Govt. Hospital,Gudiyatham",NA,Tamil Nadu
+776,777,Dr . M.Chithra MBBS,9344188983,K.Vijayalakshmi,9688244003,GH,"Govt. Hospital,Gudiyatham",NA,Tamil Nadu
+777,778,Dr Sudarshan MBBS,9444336208,N. Elango,9944480825,GH,"Govt. Hospital,Tirupattur",NA,Tamil Nadu
+778,779,"Dr. AS Rajendran MD,","9443538276,",G.Meenakshi,9842713358,Govt Medical College Hospital,"Govt. Hospital,Arakonam",NA,Tamil Nadu
+779,780,"Dr. Madhula MBBS,",9788963731,R.M.Mageshwari,9965156546,GH,"Department of STD,Govt. Medical College Hospital,Villupuram",Vilupuram,Tamil Nadu
+780,781,"Dr. Muralishree, DGO,",9487432634,V.Neduchelizan,9786263565,GH,Government hospital Kallakurichi,NA,Tamil Nadu
+781,782,"Dr. Ganesh
+ MD,Dr.Krishnamoorthy M.S","9940974073
+ 9994948797",S.Malathi,9787822535,GH,"Govt. Hospital,Dindivanam",NA,Tamil Nadu
+782,783,"Dr. Saraswathi,MBBS
+ DV Dr C Rajeshwari MBBS DCH
+ Dr.R.Ponnuswamy,MS","9943779729
+ 9944018510
+ 9442734366",R.Hemalatha,9789285725,GH,"Govt. Hospital,Ulundurpet",NA,Tamil Nadu
+783,784,Dr.Dayanithi MBBS DV,9443327637,K.Meena,9655835116,GH,"Govt. Hospital, Sankarapuram.",NA,Tamil Nadu
+784,785,"Dr. SamiyappanMBBS
+ DVL,",9443440269,S.Muniaraj,9894409557,GHQH,"Govt. Hospital,Thirukovilur",NA,Tamil Nadu
+785,786,"Dr.Vijayakumar.MBBS,D
+ CH",9994173443,R. Senthil Nayaki,9360177341,GH,"Govt. HQ Hospital,Virudhunagar",Virudhunagar,Tamil Nadu
+786,787,"Dr. M Kathiresan,
+ Dr.Ponvodivu,DGO.Dr Ramesh Babu DLO‐Dr Pushpalatha DGO","9443130258,
+ 9842926636,
+ 9790583806,944
+ 2215232",K.Senthilkumar,9655343265,GH,"Govt. Hospital, ivakasi",NA,Tamil Nadu
+787,788,Dr. Bishnu Dey,9436131092,Ms. Karuna Debbarma,9402372494,TSD STD Clinic,"TSD Hosp., Udaipur.",NA,Tripura
+788,789,Dr. R.K. Nandi,9436457546,Ms. Shima Debbarma,9436125778,Belonia STD Clinic.,Belonia SD Hosp.,South,Tripura
+789,790,Dr. Uttam Kumar Das.,9436136676,Mr. Rakesh Dey,9856516715,Sabroom STD Clinic,Sabroom SD Hosp.,South,Tripura
+790,791,"Dr. Shyamal
+ Chakroborty",9436127613,Mrs. Jhuma Majumder,9436489958,AGMC & GBP STD Clinic.,"AGMC & GBP Hosp., Agartala",South,Tripura
+791,792,"Dr.Dipankar Prakash
+ Bhowmik",9436138946,Mrs.Sankari Banik,9612347208,Khowai STD Clinic.,Khowai SD Hosp.,West,Tripura
+792,793,"Dr.Madan Mohan
+ Debnath",9436139199,Ms. Paramita Deb,9774427978,Bishalgarh STD Clinic.,Bishalgarh SD Hosp.,West,Tripura
+793,794,Dr. Udichi Bhoumik,9436135256,Ms. Sangita Debnath,9436933082,RGM STD Clinic.,"RGM Hosp., kailashahar",West,Tripura
+794,795,Dr. Dilip Kumar Das,9436137019,Mr. Rajib Bhowmik,9862618621,Dharmanagar STD Clinic.,Dharmanagar SD Hosp.,North,Tripura
+795,796,Dr. Prabal majumder,9436129681,Ms. Puspita Debbarma,8014348225,BSM STD Clinic.,"BSM Hosp., Kamalpur.",North,Tripura
+796,797,Dr PK Singh 9837071081,NA,Nupur Sharma 9259251553,NA,"S.N. MEDICAL COLLEGE (Skin Department),Agra",NA,Dhalai,Tripura
+797,798,DrAshok kr9935284427,NA,"Arvind 9557026013/
+ 9997137592/
+ 9368565710",NA,AGRA DH,NA,Agra,Uttar Pradesh
+798,799,Dr Suhel Amin 9412272453,NA,amir syed ali / 9897566199,NA,"J.L.N. MEDICAL COLLEGE (Skin Department),
+ Aligarh",NA,Aligarh,Uttar Pradesh
+799,800,"Dr JS Bhadauria
+ 9927176791",NA,"vipin verma
+ 9412654417",NA,ALIGARH DH,NA,Allahabad,Uttar Pradesh
+800,801,Dr S N Dwivedi 9839403866,NA,"Dinesh
+ 9794515051/alok_sonu 78@yahoo.com",NA,ALLAHABAD DH(MLN DISTRICT HOSPITAL),NA,"Ambedkar
+ Nagar",Uttar Pradesh
+801,802,"Dr KG Singh 9415214213/05322256
+ 467",NA,alok 9889493967/aktmsw9@ rediffmail.com,NA,"M.L.N. MEDICAL COLLEGE (Skin Department),Allahabad",NA,Auraiya,Uttar Pradesh
+802,803,Dr SK Kapoor09415176565,NA,"KK Yadav
+ 9452352005/stdkksingh @gmail.com",NA,AMNEDKAR NAGAR DH,NA,Azamgarh,Uttar Pradesh
+803,804,"Dr RD singh
+ 9415538903",NA,"narayan dikshit
+ 9410402026",NA,AURAIYA DH,NA,Baghpat,Uttar Pradesh
+804,805,R N paswan9415037161,NA,"maya singh 9452218054
+ /9453734013",NA,AZAMGARH DH,NA,Bahraich,Uttar Pradesh
+805,806,"Dr yashveer
+ singh/9759232792/941 2579248",NA,NA,NA,BAGHPAT DH,NA,Ballia,Uttar Pradesh
+806,807,"Dr mukesh jindal
+ 9411837913",NA,k t shukla 9984926012,NA,BAHRAICH DH,NA,Balrampur,Uttar Pradesh
+807,808,"Dr v narayan
+ 9792202313/98390489
+ 50",NA,basant kr. Singh 9450777697,NA,BALLIA DH,NA,Banda,Uttar Pradesh
+808,809,Dr Deepak Kr.09918580775,NA,"Satya Prakash
+ Saroj9451116710/ satyaprakashsaroj2@gm ail.com",NA,BALRAMPUR DH,NA,Barabanki,Uttar Pradesh
+809,810,Dr Dwivedi,NA,varsha 9453916591,NA,BANDA DH,NA,Bareilly,Uttar Pradesh
+810,811,Dr Sarvesh Saxena 9453038644,NA,deepak verma 9935036518/verma_dk2 007@rediffmail.com,NA,BARABANKI DH,NA,Basti,Uttar Pradesh
+811,812,Dr AK Tewari 9235500957,NA,"vinita pandey
+ 9457159307/925940900
+ 1/pandeymedicals2009 @rediffmail.com",NA,BAREILLY DH,NA,Bijnor,Uttar Pradesh
+812,813,"RamPrakash094158336
+ 16",NA,"akhilesh singh
+ 9935471749",NA,BASTI DH,NA,Budaun,Uttar Pradesh
+813,814,Dr DK Jain9412126844,NA,Rajesh 9411847569,NA,BIJNOR DH,NA,Bulandshahar,Uttar Pradesh
+814,815,"Dr Ramesh Verma
+ 9719576970",NA,"Km Sumit singh
+ 09897895579",NA,BUDAUN DH,NA,Chandauli,Uttar Pradesh
+815,816,"dr Tara Chand
+ 9810583386
+ 9456071855",NA,neha singh/9027343393,NA,BULANDSHARHAR DH,NA,Chitrakoot,Uttar Pradesh
+816,817,"dr Vinod Singh
+ 9415303835",NA,"upendra singh
+ 9793406711",NA,CHANDAULI DH,NA,Deoria,Uttar Pradesh
+817,818,Dr Rao 9450032719,NA,"sandeep kr
+ 09335459014",NA,CHITRAKOOT DH,NA,Etah,Uttar Pradesh
+818,819,Dr Sonu Keswani09415282225,NA,rashmi 9454664221/rashmisriv astva98@yahoo.com,NA,DEORIA DH,NA,Etawah,Uttar Pradesh
+819,820,"Dr Syed Md
+ 9411999221",NA,"mukesh yadav
+ 9456052555",NA,ETAH DH,NA,Faizabad,Uttar Pradesh
+820,821,Dr manju sharma9411057435 dr Tewari 9415190840,NA,Sk shukla 9457262218/ 9027896984,NA,ETAWAH DH,NA,Farrukhabad,Uttar Pradesh
+821,822,Dr RB Verma 9415076518,NA,"ramesh pandey
+ 9450915913/rpandeysti @gmail.com",NA,FAIZABAD DH,NA,Fatehpur,Uttar Pradesh
+822,823,"Dr KK Misra
+ /9415486482",NA,vijai singh / 9918410490,NA,Farrukhabad,NA,Firozabad,Uttar Pradesh
+823,824,dr vc bhugnani 9450627501,NA,"sudha
+ 9616330664/lac.ftp@g mail.com",NA,FATEHPUR DH,NA,Gautam Buddha Nagar,Uttar Pradesh
+824,825,Dr RH Sudhakar 9719415137,NA,"shivendra
+ 9634168782/941265299
+ 1/ shivendrasingh1978@re diffmail.com",NA,FIROZABAD DH,NA,Ghaziabad,Uttar Pradesh
+825,826,Dr nirupama,NA,rashmi 9911062730,NA,G.B. NAGAR DH,NA,Ghazipur,Uttar Pradesh
+826,827,Dr pramod 9910691589,NA,suman/ 09873474408,NA,GHAZIABAD DH,NA,Gonda,Uttar Pradesh
+827,828,Dr kk bhaskar,NA,"shweta rai
+ 9451697681/shwetarai2 4@gmail.com",NA,Ghazipur,NA,Gorakhpur,Uttar Pradesh
+828,829,"Dr B P Srivastava/
+ 9415458916",NA,terminated,NA,GONDA DH,NA,Hamirpur,Uttar Pradesh
+829,830,"Prof Lalit Mohan9336403771/ KC
+ Singh",NA,NA,NA,"B.R.D. MEDICAL COLLEGE (Skin Department),
+ Gorakhpur",NA,Hardoi,Uttar Pradesh
+830,831,"Dr VK
+ Jaiswal09415671771",NA,VK Tripathi 9305284838,NA,GORAKHPUR DH,NA,Hathras,Uttar Pradesh
+831,832,Dr R S Prajapati 9450271033,NA,"DK Gupta9125222225/ 9335994238/
+ 9889136675",NA,HAMIRPUR DH,NA,Jalaun,Uttar Pradesh
+832,833,"Dr PK Srivastava
+ 9450022526",NA,Archana 9889279911,NA,HARDOI DH,NA,Jaunpur,Uttar Pradesh
+833,834,"Dr D Mahendra 09627257119/
+ 09837184061/
+ 9219501460",NA,"sandeep
+ kr09286102992/ 9319433394
+ /9219501460/
+ 9473607008",NA,HATHRAS DH,NA,Jhansi,Uttar Pradesh
+834,835,"Dr LR Ahirwar
+ 9839839194",NA,"swati srivastava
+ 9235548303/",NA,JALAUN DH,NA,Jyotiba Phule Nagar,Uttar Pradesh
+835,836,"Dr R P Maurya
+ 9415891870",NA,reena singh 9795563613,NA,JAUNPUR DH,NA,Kannauj,Uttar Pradesh
+836,837,dr S P Tripathi 9450222254,NA,"Awadhesh kr gaur
+ /9506349778/ 9415179915/945303133
+ 7",NA,JHANSI DH,NA,Kanpur Dehat,Uttar Pradesh
+837,838,neeraj srivastava 9451895464,NA,Ravindra 9935323362,NA,"MLB MEDICAL COLLEGE
+ (Skin Department), Jhansi",NA,Kanpur Nagar,Uttar Pradesh
+838,839,"Dr Triyendra kumar
+ 9412636538/
+ 9410400514",NA,hemant 09808540052/ 9760424056,NA,C.H.C. AMROHA (J.P. NAGAR District Hospital),NA,Kanshi Ram Nagar,Uttar Pradesh
+839,840,Dr Seema Shukla,NA,"sony gupta/ 9457442621/983920830
+ 9/kpptct@yahoo.com",NA,KANNAUJ DH,NA,Kaushambi,Uttar Pradesh
+840,841,"Dr Ratnesh Prabhakar
+ 9450122792",NA,"Ram asrey maurya
+ 9208032682",NA,KANPUR DEHAT DH,NA,Kheri,Uttar Pradesh
+841,842,Dr ramesh 9450326886,NA,"Priyanka singh
+ 9307280540",NA,KANPUR NAGAR DH,NA,Kushinagar,Uttar Pradesh
+842,843,Prof Sushil Chandra 9839036720,NA,"shalini kushwaha
+ 9793249757/shalini_ku @yahoo.com",NA,"G.S.V.M. MEDICAL COLLEGE (Skin
+ Department), kanpur",NA,Lalitpur,Uttar Pradesh
+843,844,"Dr Suresh Dwivedi
+ 9335104627",NA,VK Gautam 9918556963,NA,KAUSHAMBI DH,NA,Lucknow,Uttar Pradesh
+844,845,Dr Suresh Singh 9415015938,NA,"ram prasad
+ 9455440497/
+ 9415197023",NA,KHERI DH,NA,Maharajganj,Uttar Pradesh
+845,846,"Rajesh Kr.09415320159/ one
+ more skin specialist has
+ joined by same name",NA,"shiv kr pandey 9336668606/shivbabita
+ _vns@rediffmail.com",NA,KUSHINAGAR DH,NA,Mahoba,Uttar Pradesh
+846,847,"Dr RP Singh
+ 9415179473",NA,"Atul 9415179915/
+ atulSTD@gmail. om",NA,LALITPUR DH,NA,Mainpuri,Uttar Pradesh
+847,848,Dr swati,NA,avikesh srivastava 9453194777,NA,"K.G. MEDICAL COLLEGE (Skin Department),
+ lucknow",NA,Mathura,Uttar Pradesh
+848,849,Dr Ajai kr 9415195466,NA,satyaveer 9305084090,NA,"BALRAMPUR HOSPITAL(DIST.HOSP),
+ lucknow",NA,Mau,Uttar Pradesh
+849,850,"Dr AK Rai
+ 09450669611/
+ 9415642792",NA,"meena verma
+ 9452305581/
+ 9451881654",NA,MAHARAJGANJ DH,NA,Meerut,Uttar Pradesh
+850,851,"Dr A K Singhal
+ 9984481080",NA,ashok kr 9198813536,NA,MAHOBA DH,NA,Mirzapur,Uttar Pradesh
+851,852,"Dr AK Gupta
+ 9412624720",NA,"neeru chauhan
+ 9259552592",NA,MAINPURI DH,NA,Moradabad,Uttar Pradesh
+852,853,"Dr Surendra Singh
+ 9259205168",NA,NA,NA,MATHURA DH,NA,"Muzaffarnaga
+ r",Uttar Pradesh
+853,854,Dr A K ranjan 9450754664,NA,"nagina Yadav
+ 9451128445/akranjanm au@gmail.com",NA,MAU DH,NA,Pilibhit,Uttar Pradesh
+854,855,Dr RP sharma 9837375007,NA,Roma 9927271325,NA,"LLRM MEDICAL COLLEGE (Skin
+ Department),meerut",NA,Pratapgarh,Uttar Pradesh
+855,856,Dr JP singh9412552968,NA,"Misha Ansari
+ 9997131271",NA,"P.L. SHARMA DH,
+ Meerut",NA,Rae Bareli,Uttar Pradesh
+856,857,"Dr SK chaddha
+ 9838800066",NA,"Ashutosh Dubey
+ 9415680177",NA,MIRZAPUR DH,NA,Rampur,Uttar Pradesh
+857,858,Dr JS Mamgai,NA,Preeti 9897394415,NA,MORADABAD DH,NA,Saharanpur,Uttar Pradesh
+858,859,Dr ML Agarwal/ 09897040623,NA,"Prateek Sharma
+ 9760698340/
+ 9927289028/
+ 9027026958/976069834
+ 0",NA,MUZAFFARNAGAR DH,MUZAFFARNAGAR DH,"Sant Kabir
+ Nagar",Uttar Pradesh
+859,860,"Dr sp sinha 9412517758
+ /9457690284",NA,som prakash 9410463870,NA,PILIBHIT DH,PILIBHIT DH,Sant Ravidas Nagar,Uttar Pradesh
+860,861,"Dr bimlendu shekhar
+ 9451956330",NA,"Archana Srivastava/
+ 9918878354",NA,PRATAPGARH DH,PRATAPGARH DH,Shahjahanpur,Uttar Pradesh
+861,862,"dr prabhakar
+ 9415817001",NA,"preeti 9918686806/
+ 9336000140",NA,RAE BARELI DH,RAE BARELI DH,Shravasti,Uttar Pradesh
+862,863,Dr bhardwaj 9412553839,NA,"vijay
+ 9410629364,999774127
+ 5",NA,RAMPUR DH,RAMPUR DH,"Siddharthnag
+ ar",Uttar Pradesh
+863,864,Dr kv singh 9412552097,NA,parvesh kr 9456271327,NA,SAHARNPUR DH,SAHARNPUR DH,Sitapur,Uttar Pradesh
+864,865,Dr AKSharma09415314102,NA,Sonal Srivastava 9452801354,NA,SK nagar,SK nagar,Sonbhadra,Uttar Pradesh
+865,866,Dr SM Gupta 9415991412,NA,Rajnish Tewari 09415685640/rajneesh_ cads@yahoo.com,NA,"S.R. NAGAR DH(maharajachet singh dh gyanpur, sr nagar
+ bhadohi)",NA,Unnao,Uttar Pradesh
+866,867,"Dr sk dhruv
+ 9415527666",NA,terminated,NA,SHAHJAHANPUR DH,NA,Varanasi,Uttar Pradesh
+867,868,Dr mukesh matanhelia / 9415121887,NA,jeetindra misra 9335023327,NA,SHARAVASTI DH,NA,NA,Uttar Pradesh
+868,869,"Dr Mal 09450881750/
+ JP Pandey/9415182710",NA,preeti misra 9453707872,NA,SiDDHARTHNAGAR DH,NA,NA,Uttar Pradesh
+869,870,Dr KA Siddique 9935867657,NA,sarvesh kr shukla 9451104503/sarvesh.art hana007@gmail.com,NA,SITAPUR DH,NA,SITAPUR,Uttar Pradesh
+870,871,Dr sk manjul 9450951081,NA,"indu dubey
+ 9455324774/
+ 9415893220/945336215
+ 1",NA,SONBHADRA DH,NA,SONBHADRA,Uttar Pradesh
+871,872,Dr BC Agarwal 05278260444,NA,"meena seth
+ 9565682425/
+ meenaseth_0@yahoo.c om",NA,SULTANPUR DH,NA,SULTANPUR,Uttar Pradesh
+872,873,Dr Anand Swaroop,NA,"vinita misra /
+ 9616419413",NA,UNNAO DH,NA,UNNAO,Uttar Pradesh
+873,874,"Dr SK Singh 9198120582/05426703
+ 318",NA,swati 9451889887/ swati75singh@yahoo.co m,NA,"INSTITUTE OF MEDICAL SCIENCES (Skin
+ Department) BHU,
+ varanasi",NA,VARANASI,Uttar Pradesh
+874,875,"Dr B M Pandey
+ 9415331088",NA,NA,NA,VARANASI DH,NA,VARANASI,Uttar Pradesh
+875,876,dr manisha gupta 9415351180,NA,"ishrat jahan
+ 9369504346/ish.psychol ogy@gmail.com",NA,Allahabad DFH,NA,Allahabad,Uttar Pradesh
+876,877,"bhavna sharma
+ 9415257909",NA,"Sadhana rai
+ 9307270919",NA,Banda DFH,NA,NA,Uttar Pradesh
+877,878,NA,NA,NA,NA,Deoria DFH,NA,Deoria,Uttar Pradesh
+878,879,dr nek ram,NA,subodh kr 9759966995,NA,"RIMSAR Saifai, Etawah",NA,Etawah,Uttar Pradesh
+879,880,dr p prasad,NA,NA,NA,Kanshiram nagar,NA,NA,Uttar Pradesh
+880,881,NA,NA,NA,NA,Varanasi DFH,NA,VARANASI,Uttar Pradesh
+881,882,NA,NA,"pptct counselor mamta
+ 9795223350",NA,Gorakhpur DFH,NA,Gorakhpur,Uttar Pradesh
+882,883,Dr.N.K Tripathi,9412985796,Ms. Hemlata,NA,District Hospital,"District Hospital,Almora",Almora,Uttrakhand
+883,884,"New Proposed Sti clinic, not yet functional",NA,NA,NA,District Hospital,"District Hospital,Bageshwar",Bageshwar,Uttrakhand
+884,885,Dr.P.Dwivedi,9410651812,Mrs. Pratibha Pawar,NA,District Hospital,"District Hospital,Gopeshwar",Chamoli,Uttrakhand
+885,886,"New Proposed Sti clinic, not yet functional",NA,NA,NA,District Hospital,"District Hospital,Champawat",Champawat,Uttrakhand
+886,887,Dr.Anil Arya,9412348647,Ms. Amita,NA,District Hospital,"District Hospital,Dehradun",Dehradun,Uttrakhand
+887,888,Dr.Pradeep Kumar,9997238808,Mr. R Badoni,NA,District Hospital,"District Hospital,Haridwar",Haridwar,Uttrakhand
+888,889,Dr. Rajesh. Shah,9837533120,Mr. K Bisht,NA,District Hospital,"District Hospital,Nainital",Nainital,Uttrakhand
+889,890,Dr.M.P. Singh,9997460512,Mr S. Bhandari,NA,District Hospital,"District Hospital,Pauri",Pauri,Uttrakhand
+890,891,Dr. L.S. Bora,NA,NA,NA,District Hospital,"District Hospital,Pithoragarh",Pithoragarh,Uttrakhand
+891,892,"New Proposed Sti clinic, not yet functional",NA,NA,NA,District Hospital,"District Hospital, udraprayag",Rudraprayag,Uttrakhand
+892,893,Dr.R.C.S.Rawat,9412382819,Ms. Rashmi,NA,District Hospital,"District Hospital,Narendra nagar",Tehri,Uttrakhand
+893,894,Dr.S.Sharma,NA,NA,NA,District Hospital,"District Hospital,Rudarpur","Udham Singh
+ Nagar",Uttrakhand
+894,895,Dr.B.S.Bisht,NA,Mr. S.Dimri,NA,District Hospital,"District Hospital,Uttarkashi",Uttakhashi,Uttrakhand
+895,896,Dr. Sikha Halder,9831712420,Paramita Roy,9474178327,Barasat DH,"P.O.‐ Barasat, Dist : 24 Pgs(N)",24 Pgs north,West Bengal
+896,897,Dr. P. S. Sen,9830237082,Madhubanti Moulik,9903116599,B.N. Bose Hosp.,"P.O.‐ Barrackpore, Dist : 24
+ Pgs(N)",24 Pgs north,West Bengal
+897,898,Dr. P.K. Basak,9433357077,Rupsa Basu,9748275102,M.R. Bangur Hosp,"Tollygunj , Kolkata ‐ 33",24 Pgs South,West Bengal
+898,899,Dr. Debiprasad Dutta,9434391835,Tumpa Chakraborty,9475190067,BSMCH,P.O. + Dist ‐ Bankura,Bankura,West Bengal
+899,900,Dr. Ashoke Samanta,9434896647,Arghya Banerjee,9434352350,Bishnupur SD Hospital,"P.O.‐ Bishnupur, Dist : Bankura",Bankura,West Bengal
+900,901,Dr. Chinmay Kar,9434212062,Subhadeep Das,9434849131,Asansol SD Hosp,"P.O. ‐ Assansol, Dist : Burdwan",Bardhaman,West Bengal
+901,902,NA,NA,Aniruddha Chakraborty,9831857426,Kalna SD Hosp,P.O.‐ Kalna Dist ‐ Burdwan,Bardhaman,West Bengal
+902,903,"Dr. Bani Kumar
+ Mondal",9434474296,Barnali Ghosh,9434672271,Burdwan MCH,P.O. + Dist : Burdwan,Bardhaman,West Bengal
+903,904,Dr. Sarmistha Das,9333909670,Rajarshi Banerjee,9832770643,Durgapur SD Hosp.,"Durgapur, Burdwan",Bardhaman,West Bengal
+904,905,Dr. Manoj Mondal,9434157447,Kanad Sinha,9775160134,Suri DH,"P.O.‐ Suri , Dist ‐ Birbhum",Birbhum,West Bengal
+905,906,Dr. Chanchal Das,9434237844,Bholanath Mahato,9800631061,Rampurhat SD hosp,"P.O.‐ Rampurhat , Dist ‐ Birbhum",Birbhum,West Bengal
+906,907,Dr Indrajit Nath,9434060801,Amrita Das,9641922870,MJN Hosp,P.O.‐ + Dist : Cooch Behar,Coach Bihar,West Bengal
+907,908,Dr. Ashoke Kr. Sarkar,9434247072,Litan Roy,9231805521,Balurghat DH,"P.O.‐ Balurghat, Dist : Dakshin
+ Dinajpur","Dakshin
+ Dinajpur",West Bengal
+908,909,Dr. Gautam Bag,NA,NA,NA,Darjeeling DH,P.O. ‐+ Dist : Darjeeling,Darjeeling,West Bengal
+909,910,Dr. Saswati Halder,NA,Subhasrita Saha,9832532233,"North Bengal Medical
+ College","P.O.‐ Shushrut nagar, Dist ‐
+ Darjeeling",Darjeeling,West Bengal
+910,911,Dr. N. Chowdhury,3542344333,NA,NA,Kurseong SDH,"P.O.‐ Kurseong, Dist : Darjeeling",Darjeeling,West Bengal
+911,912,Dr. Arjun Kr. Bag,9232569820,NA,NA,Kalimpong SDH,"P.O.‐ Kalimpong, Dist ‐ Darjeeling",Darjeeling,West Bengal
+912,913,Dr. Arup Dey Sarkar,9434249276,Shampa Das,9474034719,Siliguri DH,"P.O.‐ Siliguri, Dist ‐ Darjeeling",Darjeeling,West Bengal
+913,914,Dr. N. Bhattacharyya,9830282694,Swarachita Das,9153286525,Chandannagar DH,"P.O.‐ Chandannagar, Dist :
+ Hooghly",Hoogly,West Bengal
+914,915,Dr. S. K. Dey,9433180854,Biswanath Rajbanshi,9332162251,Chinsurah DH,"P.O.‐ Chinsurah, Dist ‐ Hooghly",Hoogly,West Bengal
+915,916,Dr. P. K. Basak,9433357077,Tarun Biswas,9733413053,Walsh SDH,"P.O.‐ Sreerampore, Dist :
+ Hooghly",Hoogly,West Bengal
+916,917,Dr. D. Pal,NA,Sujata Paul,9474021253,Arambagh,"P.O. ‐ Arambagh, Dist ‐ Hooghly",Hoogly,West Bengal
+917,918,Dr. S. K. Dhara,9433160006,Smritikana Maity Nayak,9932339449,Howrah Gen. Hosp.,P.O. + Dist ‐ Howrah,Howrah,West Bengal
+918,919,Dr. S. K. Banerjee,9434016823,Sanjay Roy,9474717584,Jalpaiguri DH,P.O.‐ + Dist : Jalpaiguri,Jalpaiguri,West Bengal
+919,920,Dr. Sujan Kr. Das,NA,Indira Halder,9609730588,Aluipurduar SDH,"P.O.‐ Alipurduar , Dist : Hooghly",Jalpaiguri,West Bengal
+920,921,Dr.P.K. Dutta,9830060411,Amit Kumar Maity,9739248687,"Kolkata Medical college
+ RTC",88 College St. Kolkat a ‐ 73,Kolkata,West Bengal
+921,922,Dr. Rakesh Tripathi,9831034538,Paramita Dey,NA,"R.G.Kar Medical college
+ Hosp","1 , Belgachis Rd., Kolkata ‐
+ 700004",Kolkata,West Bengal
+922,923,"Dr. Sneharanjan
+ Bhattacharya",24932337,Archana Dutta Mitra,9748195996,N.R.S.M.C.H,"142 A.J.C. Bose Road, Sealdah,
+ Kolkata ‐ 14",Kolkata,West Bengal
+923,924,Dr. Sadhan Ghosh,9433149336,Paulami Roy Basu,NA,"Calcutta National
+ Medical College","32 , Gorachand Rd., Sealdah,
+ Kolkata ‐ 700014",Kolkata,West Bengal
+924,925,Dr. I. Jana,9831317061,Paramita Dutta,9830638831,"Lady Dufferin Victoria
+ Hosp.",Kolkata,Kolkata,West Bengal
+925,926,"Dr. R. N. Dutta
+ Dr. D. N. Ganguly",9433006225,Suman Purakayastha,9831547934,S.S.K.M. Hosp,"P.G. Hospital , Kolkata",Kolkata,West Bengal
+926,927,NA,NA,Chandan Jana,9233155303,STM,Kolkata,Kolkata,West Bengal
+927,928,Dr. Chaitali Mallick,3512250337,Rupa Basak,9474438090,Malda DH,P.O. + Dist : Malda,Malda,West Bengal
+928,929,Dr. Dipak Guria,9932753410,Anupam Pal,9735488469,Tamluk DH,"P.O.‐ Tamluk, Dist : Midnapore","Midnapore
+ east",West Bengal
+929,930,Dr. Ashoke Banerjee,9836151867,Sangita Parui,9732975269,Haldia SDH,"P.O.‐ Haldia, Dist : East
+ Midnapore","Midnapore
+ east",West Bengal
+930,931,Dr. Tushar Maity,9433220407,Samar Doloi,9332330257,Ghatal SDH,"P.O.‐ Ghatal, Dist : Midnapore
+ West","Midnapore
+ west",West Bengal
+931,932,"Dr. Mrinal Kanti
+ Barman",9474505042,Soubhik Maity,9734665570,"Midnapore Medical
+ College Hosp.",P.O.‐ + Dist : West Midnapore,"Midnapore
+ west",West Bengal
+932,933,Dr. D. Biswas,9434173683,Rimi Panda,9433156877,Berhampore DH,"P.O. Berhampore, Dist :
+ Murshidabad",Murshidabad,West Bengal
+933,934,Dr. Suchibrata Das,NA,Bubaidev Halder,9836521808,Ranaghat SDH,"P.O. Ranaghat, Dist ‐ Nadia",Nadia,West Bengal
+934,935,Dr. Amaresh Mondal,9434129364,Lovely Roy,9903702707,Krishnanagar DH,"P.O.‐ Krishnanagar, Dist ‐ Nadia",Nadia,West Bengal
+935,936,Dr. Subhabrata Das,9434142042,Atanu Kr. Santra,9609355297,Purulia DH,P.O.‐ + Dist :‐ Purulia,Purulia,West Bengal
+936,937,Dr. A. Sinha,NA,Punam Sutradhar,9832532233,Islampur,"P.O. ‐ Islampur, Dist ‐ Uttar
+ Dinajpur",Uttar Dinajpur,West Bengal
+937,938,Dr. T. R. Bhuiya,9434247516,Mun Mun Das,9832032550,Raiganj DH,"P.O. ‐ Raiganj, Dist : Uttar
+ Dinajpur",Uttar Dinajpur,West Bengal
