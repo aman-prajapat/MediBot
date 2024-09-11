@@ -8,7 +8,7 @@ def ask_doctor_about_std(query):
     # Initialize the Groq client with your API key
     client = Groq()
 
-    client.set_api_key(os.getenv('api_key'))
+    # client.set_api_key(os.getenv('api_key'))
     
     # Create a chat completion request with the user's query
     completion = client.chat.completions.create(
