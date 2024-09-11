@@ -1,6 +1,8 @@
 
 from flask import Flask, request, jsonify
 import utility
+# from dotenv import load_dotenv, dotenv_values
+import os
 
 app = Flask(__name__)
 
@@ -45,4 +47,5 @@ def webhook():
         # return jsonify(response), 200
 
 if __name__ == '__main__':
-    app.run(port=5000, debug=False)
+    port = int(os.environ.get("PORT", 5000))  # Use the dynamic PORT variable
+    app.run(host='0.0.0.0', port=port)  # Bind to 0.0.0.0 for external access
