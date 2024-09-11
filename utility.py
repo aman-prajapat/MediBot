@@ -1,10 +1,15 @@
 import pandas as pd
 import json
 from groq import Groq
+from dotenv import load_dotenv, dotenv_values
+import os
+
+
+load_dotenv()
 
 def ask_doctor_about_std(query):
     # Initialize the Groq client with your API key
-    client = Groq(api_key='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')
+    client = Groq(os.getenv('api_key'))
     
     # Create a chat completion request with the user's query
     completion = client.chat.completions.create(
