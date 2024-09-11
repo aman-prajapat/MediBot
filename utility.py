@@ -6,7 +6,9 @@ import os
 
 def ask_doctor_about_std(query):
     # Initialize the Groq client with your API key
-    client = Groq()
+    client = Groq(
+    api_key=os.environ.get("GROQ_API_KEY"),
+    )
 
     # client.set_api_key(os.getenv('api_key'))
     
