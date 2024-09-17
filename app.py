@@ -60,7 +60,7 @@ def ping_app():
             print(f"Ping response: {response.status_code}")
         except Exception as e:
             print(f"Error pinging app: {e}")
-        time.sleep(600)  # Ping every 10 minutes
+        time.sleep(240)  # Ping every 10 minutes
 
 if __name__ == '__main__':
     threading.Thread(target=ping_app).start()
