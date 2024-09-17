@@ -52,6 +52,10 @@ def webhook():
 def home():
     return "Hello, Flask app running on Render!"
 
+@app.route('/health')
+def health():
+    return "Healthy", 200
+
 # Function to ping the app periodically
 def ping_app():
     while True:
