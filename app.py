@@ -45,10 +45,24 @@ def webhook():
         "fulfillmentText": response_message
         })
         # return jsonify(response), 200
+
+
 @app.route('/')
 def home():
     return "Hello, Flask app running on Render!"
+
+# Function to ping the app periodically
+def ping_app():
+    while True:
+        try:
+            response = requests.get("https://medibot-een5.onrender.com/health")
+            print(f"Ping response: {response.status_code}")
+        except Exception as e:
+            print(f"Error pinging app: {e}")
+        time.sleep(600)  # Ping every 10 minutes
+
 if __name__ == '__main__':
+    threading.Thread(target=ping_app).start()
     port = int(os.environ.get("PORT", 5000))  # Use the dynamic PORT variable
     app.run(host='0.0.0.0', port=port)  # Bind to 0.0.0.0 for external access
 
