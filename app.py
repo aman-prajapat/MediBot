@@ -2,6 +2,7 @@ import threading
 import time
 from flask import Flask, request, jsonify
 import utility
+import requests
 # from dotenv import load_dotenv, dotenv_values
 import os
 
@@ -67,7 +68,10 @@ def ping_app():
         time.sleep(240)  # Ping every 10 minutes
 
 if __name__ == '__main__':
-    threading.Thread(target=ping_app).start()
+    print("Starting the app....")
+    ping_thread = threading.Thread(target=ping_app)
+    ping_thread.daemon = True
+    ping_thread.start()
     port = int(os.environ.get("PORT", 5000))  # Use the dynamic PORT variable
     app.run(host='0.0.0.0', port=port)  # Bind to 0.0.0.0 for external access
 
